@@ -1,0 +1,213 @@
+﻿  1| Empire Estimators, LLC
+  2| Building Consultants and Estimators
+  3| New York, NY
+  4| Client:Jane Doe
+  5| Property:789 Maple Drive
+  6| Tampa, FL 33602
+  7| Operator:DEFAULT
+  8| Estimator:Empire Estimators, LLC
+  9| Type of Estimate:Water Damage
+ 10| Date Entered:6/10/2024
+ 11| Date Est. Completed:6/10/2024
+ 12| Price List:FLHI8X_JUN24
+ 13| Labor Efficiency:Restoration/Service/Remodel
+ 14| Estimate:TAMPA_WTR_CTR
+ 15| TAMPA_WTR_CTR6/10/2024Page: 1
+ 16| Empire Estimators, LLC
+ 17| Building Consultants and Estimators
+ 18| New York, NY
+ 19| TAMPA_WTR_CTR6/10/2024Page: 2
+ 20| General
+ 21| General
+ 22| DESCRIPTIONQTYRESETREMOVEREPLACETAXO&PTOTAL
+ 23| ADMINISTRATIVE AND SUPERVISOR
+ 24| 1. Residential Supervision / Project24.00HR0.000.0083.430.00400.462402.78
+ 25| 2. Cleaning Technician - per hour - 16.00HR0.000.0046.410.00148.52891.08
+ 26| DEBRIS REMOVAL
+ 27| 3. Dumpster load - Approx. 30 yards2.00EA0.00785.000.000.00314.001884.00
+ 28| INSPECTION
+ 29| 4. Megohmmeter check electrical circ1.00EA0.000.001228.67127.16245.741601.57
+ 30| SITE PROTECTION
+ 31| 5. Floor protection - plastic and ta350.00SF0.000.000.4114.8528.70187.05
+ 32| 6. Temporary containment wall - 6 mi120.00SF0.000.001.8522.9744.40289.37
+ 33| Totals: General164.981181.827255.85
+ 34| TAMPA_WTR_CTR6/10/2024Page: 2
+ 35| Empire Estimators, LLC
+ 36| Building Consultants and Estimators
+ 37| New York, NY
+ 38| TAMPA_WTR_CTR6/10/2024Page: 3
+ 39| Master Bedroom
+ 40| Master BedroomHeight: Peaked
+ 41| 575.26 SF Walls          242.26 SF Ceiling
+ 42| 817.52 SF Walls & Ceiling   205.12 SF Floor
+ 43| 22.79 SY Flooring         54.83 LF Floor Perimeter
+ 44| 63.47 LF Ceil. Perimeter
+ 45| DESCRIPTIONQTYRESETREMOVEREPLACETAXO&PTOTAL
+ 46| FLOORING
+ 47| 7. Hickory floor - pre-distressed/ha205.12SF0.000.0013.88294.67569.423711.16
+ 48| 8. Sand, stain, and finish wood floo205.12SF0.000.004.73100.42194.041264.68
+ 49| 9. Add for dustless floor sanding205.12SF0.000.001.0021.2341.02267.37
+ 50| 10. Additional coats of finish (per 205.12SF0.000.001.0822.9344.30288.76
+ 51| WALLS
+ 52| 11. Batt insulation - 6" - R21 - unf431.45SF0.000.001.4866.08127.72832.35
+ 53| 12. 1/2" drywall - hung, taped, read575.26SF0.000.001.96116.70225.501469.71
+ 54| 13. Tape joint - new to existing dry63.47LF0.000.008.6056.50109.16711.50
+ 55| 14. Wallpaper - High grade575.26SF0.000.003.11185.17357.822332.05
+ 56| 15. Seal walls w/PVA primer - one co575.26SF0.000.000.8751.80100.10652.38
+ 57| 16. Texture drywall - light hand tex575.26SF0.000.000.6136.3270.18457.41
+ 58| 17. Paint the walls - two coats575.26SF0.000.001.3479.79154.181004.82
+ 59| CEILINGS
+ 60| 18. Batt insulation - 10" - R30 - un242.26SF0.000.002.0651.6599.82650.53
+ 61| 19. 5/8" drywall - hung, taped, read40.00SF0.000.002.078.5716.56107.93
+ 62| 20. Paint the ceiling - two coats242.26SF0.000.001.3433.6064.92423.15
+ 63| 21. Scaffold - per section (per day)4.00DA0.000.0020.558.5116.44107.15
+ 64| 22. Scaffolding Setup & Take down - 2.00HR0.000.0048.7010.0819.48126.96
+ 65| FINISH CARPENTRY
+ 66| 23. Baseboard - 3 1/4"54.83LF0.000.003.9722.5243.54283.74
+ 67| 24. Seal & paint baseboard - two coa54.83LF0.000.002.2412.7124.56160.09
+ 68| 25. Casing - 2 1/4"51.00LF0.000.002.5213.3025.70167.52
+ 69| 26. Seal & paint casing - two coats51.00LF0.000.002.2511.8822.96149.59
+ 70| DOORS AND WINDOWS
+ 71| 27. R&R French door - Exterior - pre1.00EA33.330.00738.3079.86154.321005.81
+ 72| 28. Paint door slab only - 2 coats (2.00EA0.000.0052.5410.8721.02136.97
+ 73| 29. Detach & Reset Door lockset - ex1.00EA31.130.000.003.226.2240.57
+ 74| 30. Interior door - solid alder - pa1.00EA0.000.00504.3452.20100.86657.40
+ 75| MECHANICAL, ELECTRICAL & PLUMBING
+ 76| 31. Ceiling fan - Detach & reset1.00EA0.000.00211.4221.8842.28275.58
+ 77| 32. Recessed light fixture - Detach 4.00EA0.000.003.471.442.7818.10
+ 78| 33. Rewire - avg residence - copper 205.12SF0.000.004.3091.28176.401149.70
+ 79| 34. Detach & Reset AC unit1.00EA332.170.000.0034.3866.44432.99
+ 80| 35. Prep wall for wallpaper575.26SF0.000.000.8450.0296.64629.88
+ 81| Totals: Master Bedroom1549.582994.3819515.85
+ 82| TAMPA_WTR_CTR6/10/2024Page: 3
+ 83| Empire Estimators, LLC
+ 84| Building Consultants and Estimators
+ 85| New York, NY
+ 86| TAMPA_WTR_CTR6/10/2024Page: 4
+ 87| Laundry Room
+ 88| Laundry RoomHeight: 8'
+ 89| 362.67 SF Walls          104.65 SF Ceiling
+ 90| 467.32 SF Walls & Ceiling   104.65 SF Floor
+ 91| 11.63 SY Flooring         45.33 LF Floor Perimeter
+ 92| 45.33 LF Ceil. Perimeter
+ 93| DESCRIPTIONQTYRESETREMOVEREPLACETAXO&PTOTAL
+ 94| FLOORING
+ 95| 36. Floor prep for resilient floorin104.65SF0.000.000.9510.2819.88129.58
+ 96| 37. Vinyl floor covering (sheet good120.35SF0.000.004.7158.67113.38738.90
+ 97| WALLS
+ 98| 38. Batt insulation - 6" - R21 - unf272.00SF0.000.001.4841.6680.52524.74
+ 99| 39. 1/2" drywall - hung, taped, read181.33SF0.000.001.9636.7871.08463.27
+100| 40. 1/2" - drywall per LF - up to 2'22.67LF0.000.009.0121.1440.86266.26
+101| 41. Tape joint - new to existing dry45.33LF0.000.008.6040.3477.96508.14
+102| 42. Seal walls w/PVA primer - one co362.67SF0.000.000.8732.6563.10411.27
+103| 43. Texture drywall - light hand tex362.67SF0.000.000.6122.9044.24288.37
+104| 44. Paint the walls - two coats362.67SF0.000.001.3450.3097.20633.48
+105| CEILINGS
+106| 45. Paint the ceiling - two coats104.65SF0.000.001.3414.5128.04182.78
+107| FINISH CARPENTRY
+108| 46. Baseboard - 3 1/4"45.33LF0.000.003.9718.6236.00234.58
+109| 47. Seal & paint baseboard - two coa45.33LF0.000.002.2410.5120.30132.35
+110| 48. R&R Crown molding - 2 1/4"45.33LF1.040.004.5726.3250.86331.48
+111| 49. Paint crown molding - two coats45.33LF0.000.002.2510.5620.40132.95
+112| APPLIANCES
+113| 50. Dryer - Gas1.00EA0.000.001023.32105.91204.661333.89
+114| 51. Washer/Washing Machine - Top-loa1.00EA0.000.00748.9977.52149.80976.31
+115| DOORS AND WINDOWS
+116| 52. Interior door - solid core Colon1.00EA0.000.00338.2735.0267.66440.95
+117| 53. Paint door slab only - 2 coats (2.00EA0.000.0052.5410.8721.02136.97
+118| MECHANICAL, ELECTRICAL & PLUMBING
+119| 54. Water heater - Detach & reset1.00EA0.000.00666.6269.00133.32868.94
+120| 55. Detach & Reset Breaker panel1.00EA1280.390.000.00132.52256.081668.99
+121| Totals: Laundry Room826.081596.3610404.20
+122| TAMPA_WTR_CTR6/10/2024Page: 4
+123| Empire Estimators, LLC
+124| Building Consultants and Estimators
+125| New York, NY
+126| TAMPA_WTR_CTR6/10/2024Page: 5
+127| Bathroom
+128| BathroomHeight: 8'
+129| 241.33 SF Walls          56.83 SF Ceiling
+130| 298.17 SF Walls & Ceiling   56.83 SF Floor
+131| 6.31 SY Flooring         30.17 LF Floor Perimeter
+132| 30.17 LF Ceil. Perimeter
+133| DESCRIPTIONQTYRESETREMOVEREPLACETAXO&PTOTAL
+134| FLOORING
+135| 56. Radiant floor heating system56.83SF0.000.0016.5297.16187.761223.75
+136| 57. R&R 1/2" Cement board56.83SF0.001.294.8536.1069.78454.82
+137| 58. R&R Mortar bed for tile floors56.83SF0.002.095.4044.0585.14554.84
+138| 59. Ceramic/porcelain tile - Premium38.83SF0.000.0019.5778.65151.98990.53
+139| 60. Grout sealer56.83SF0.000.001.549.0617.50114.08
+140| WALLS
+141| 61. R&R Mosaic - ceramic/porcelain t120.67SF0.002.8032.96446.62863.045624.82
+142| 62. R&R Ceramic/porcelain tile - Pre120.67SF0.002.8019.57279.39539.883518.66
+143| 63. Waterproof membrane - tile under70.00SF0.000.006.6147.8992.54603.13
+144| 64. R&R Shower drain - waterproof me1.00EA23.330.00203.3523.4645.34295.48
+145| 65. R&R 1/4" Cement board241.33SF0.001.294.75150.86291.521900.02
+146| 66. Additional charge to tile a wall1.00EA0.000.00244.1925.2748.84318.30
+147| 67. R&R Tile framed shower curb - pe6.83LF0.0014.59109.0887.42168.941101.03
+148| 68. Seal grout on tile wall241.33SF0.000.001.6841.9681.08528.47
+149| CABINETRY
+150| 69. Vanity with granite or marble to3.00LF0.000.00431.99134.14259.201689.31
+151| MECHANICAL, ELECTRICAL & PLUMBING
+152| 70. R&R Tub/shower faucet - Premium 1.00EA38.900.00527.0958.58113.20737.77
+153| 71. Toilet1.00EA0.000.00522.0954.04104.42680.55
+154| 72. Sink - single1.00EA0.000.00291.4330.1758.28379.88
+155| 73. R&R Custom shower door - 1/2" gl40.00SF0.002.9254.41237.33458.642989.17
+156| MISCELLANEOUS
+157| 74. Mirror - 1/4" plate glass - gold15.00SF0.000.0019.3129.9857.94377.57
+158| 75. Towel bar - High grade1.00EA0.000.0040.684.218.1453.03
+159| 76. Toilet paper holder - High grade1.00EA0.000.0038.073.947.6249.63
+160| 77. Rewire - avg residence - copper 56.83SF0.000.005.9334.8867.40439.28
+161| 78. Rough in plumbing - supply and w56.83SF0.000.004.1724.5347.40308.91
+162| Totals: Bathroom1979.693825.5824933.03
+163| TAMPA_WTR_CTR6/10/2024Page: 5
+164| Empire Estimators, LLC
+165| Building Consultants and Estimators
+166| New York, NY
+167| TAMPA_WTR_CTR6/10/2024Page: 6
+168| Garage
+169| GarageHeight: 10'
+170| 480.00 SF Walls          240.00 SF Ceiling
+171| 720.00 SF Walls & Ceiling   240.00 SF Floor
+172| 26.67 SY Flooring         62.00 LF Floor Perimeter
+173| DESCRIPTIONQTYRESETREMOVEREPLACETAXO&PTOTAL
+174| WALLS
+175| 79. 1/2" drywall - hung, taped, read480.00SF0.000.001.9697.41188.161225.97
+176| 80. Seal walls w/PVA primer - one co480.00SF0.000.000.8743.2383.52544.35
+177| 81. Paint the walls - two coats480.00SF0.000.001.3466.58128.64838.22
+178| FLOORING
+179| 82. Epoxy floor coating240.00SF0.000.003.5087.02168.001095.02
+180| MECHANICAL
+181| 83. Garage door opener - Detach & re1.00EA85.000.000.008.8017.00110.80
+182| FINAL CLEANING
+183| 84. Final cleaning - construction - 240.00SF0.000.000.330.0015.8495.04
+184| Totals: Garage303.04601.163909.40
+185| TAMPA_WTR_CTR6/10/2024Page: 6
+186| Empire Estimators, LLC
+187| Building Consultants and Estimators
+188| New York, NY
+189| TAMPA_WTR_CTR6/10/2024Page: 7
+190| Exterior
+191| Exterior
+192| DESCRIPTIONQTYRESETREMOVEREPLACETAXO&PTOTAL
+193| SIDING
+194| 85. Detach & Reset Siding - cedar sh50.00SF2.610.000.0013.5126.10170.11
+195| CLEANING
+196| 86. Clean surface area w/ pressure s400.00SF0.000.000.9840.5778.40510.97
+197| PAINTING
+198| 87. Stain & finish wood siding400.00SF0.000.003.22133.31257.601678.91
+199| Totals: Exterior187.39362.102359.99
+200| TAMPA_WTR_CTR6/10/2024Page: 7
+201| Empire Estimators, LLC
+202| Building Consultants and Estimators
+203| New York, NY
+204| TAMPA_WTR_CTR6/10/2024Page: 8
+205| Summary
+206| Line Item Total68378.32
+207| Overhead6837.83
+208| Profit6837.83
+209| Replacement Cost Value$82053.98
+210| Net Claim$82053.98
+211| TAMPA_WTR_CTR6/10/2024Page: 8
+
+--- Total: 211 non-empty lines ---

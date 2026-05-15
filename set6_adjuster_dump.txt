@@ -1,0 +1,180 @@
+﻿  1| Empire Estimators, LLC
+  2| Building Consultants and Estimators
+  3| New York, NY
+  4| Client:Robert & Maria Chen
+  5| Property:2847 Seaside Blvd
+  6| Boca Raton, FL 33432
+  7| Operator:ADJ_MARTINEZ
+  8| Estimator:Empire Estimators, LLC
+  9| Type of Estimate:Hurricane / Wind
+ 10| Date Entered:10/04/2024
+ 11| Price List:FLSE8X_SEP24
+ 12| Labor Efficiency:Restoration/Service/Remodel
+ 13| Estimate:BOCA_WIND_ADJ
+ 14| BOCA_WIND_ADJ10/04/2024Page: 1
+ 15| Empire Estimators, LLC
+ 16| Building Consultants and Estimators
+ 17| New York, NY
+ 18| BOCA_WIND_ADJ10/04/2024Page: 2
+ 19| General
+ 20| General
+ 21| DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+ 22| ADMINISTRATIVE
+ 23| 1. Supervision/Project Management - per 160.00HR0.0078.060.002497.9214987.52
+ 24| 2. General cleanup labor - hourly16.00HR0.0047.610.00152.35914.11
+ 25| DEBRIS REMOVAL
+ 26| 3. Dumpster - 20 CY - 4 ton capacity1.00EA676.000.0069.97135.20881.17
+ 27| PERMITS
+ 28| 4. Permits and fees - combined1.00EA0.000.000.000.00OPEN ITEM
+ 29| TEMPORARY
+ 30| 5. R&R Temporary power - overhead servic1.00EA67.99567.230.00127.04762.26
+ 31| 6. Temp power - per month4.00MO0.00246.2576.34212.261273.60
+ 32| 7. Portable sanitation - monthly rental4.00MO0.00161.500.00129.20775.20
+ 33| Totals: General146.313253.9719593.86
+ 34| BOCA_WIND_ADJ10/04/2024Page: 2
+ 35| Empire Estimators, LLC
+ 36| Building Consultants and Estimators
+ 37| New York, NY
+ 38| BOCA_WIND_ADJ10/04/2024Page: 3
+ 39| Master Bedroom
+ 40| Master BedroomHeight: Peaked
+ 41| 378.00 SF Walls          265.00 SF Ceiling
+ 42| 643.00 SF Walls & Ceiling   236.00 SF Floor
+ 43| 26.22 SY Flooring         58.00 LF Floor Perimeter
+ 44| 68.00 LF Ceil. Perimeter
+ 45| DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+ 46| CEILINGS
+ 47| 8. Remove damaged ceiling drywall - 5/8"265.00SF1.150.000.0060.95365.70
+ 48| 9. R-30 batt insulation - ceiling - unfa265.00SF0.001.8527.43103.34620.08
+ 49| 10. Drywall - 5/8" - ceiling - hang tape265.00SF0.002.7513.35148.42890.52
+ 50| 11. PVA primer - ceiling - one coat265.00SF0.000.641.2334.18205.01
+ 51| 12. Knockdown texture - ceiling265.00SF0.001.353.5872.38434.38
+ 52| 13. Paint ceiling - two coats - flat fin265.00SF0.001.045.1456.24337.38
+ 53| WALLS
+ 54| 14. Stud wall seal - shellac - odor bloc378.00SF0.001.078.2182.54495.24
+ 55| 15. Insulation - R13 - 3.5" batt - kraft189.00SF0.000.979.5238.56231.45
+ 56| 16. Drywall - 1/2" - walls - hang tape f378.00SF0.002.6417.87203.141218.89
+ 57| 17. PVA wall primer - one coat378.00SF0.000.641.7648.74292.42
+ 58| 18. Wall texture - knockdown style378.00SF0.001.355.11103.18619.13
+ 59| 19. Paint walls - 2 coats - satin finish378.00SF0.001.047.3380.14480.81
+ 60| FLOORING
+ 61| 20. 8 lb carpet cushion - high density236.00SF0.000.9215.0245.18271.14
+ 62| 21. Carpet - plush - stain resist - std 265.00SF0.003.7260.22206.721247.34
+ 63| 22. Vacuum - post carpet installation236.00SF0.000.120.005.6633.98
+ 64| FINISH CARPENTRY
+ 65| 23. Baseboard - 3-1/4" - poplar58.00LF0.004.125.4548.70292.21
+ 66| 24. Paint baseboard - semi-gloss - 2 coa58.00LF0.001.550.6318.26108.44
+ 67| 25. Door/window casing - 2-1/4"68.00LF0.002.528.8622.96182.66
+ 68| 26. Paint casing - 2 coats68.00LF0.002.255.9021.62163.52
+ 69| CLOSETS
+ 70| 27. Closet rod and shelf - per LF8.00LF0.0024.992.0830.40232.40
+ 71| 28. Seal and paint closet shelving8.00LF0.009.750.6811.8484.12
+ 72| FINAL CLEANING
+ 73| 29. Final cleaning - residential265.00SF0.000.330.0017.50104.95
+ 74| Totals: Master Bedroom199.371460.658911.77
+ 75| BOCA_WIND_ADJ10/04/2024Page: 3
+ 76| Empire Estimators, LLC
+ 77| Building Consultants and Estimators
+ 78| New York, NY
+ 79| BOCA_WIND_ADJ10/04/2024Page: 4
+ 80| Living Room
+ 81| Living RoomHeight: 8'
+ 82| 588.00 SF Walls          412.00 SF Ceiling
+ 83| 1000.00 SF Walls & Ceiling   368.00 SF Floor
+ 84| 40.89 SY Flooring         76.00 LF Floor Perimeter
+ 85| 88.00 LF Ceil. Perimeter
+ 86| DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+ 87| CEILINGS
+ 88| 30. Remove ceiling drywall - 5/8" - dama412.00SF1.150.000.0094.76568.56
+ 89| 31. Drywall debris disposal412.00SF0.000.150.0012.3674.16
+ 90| 32. Sister ceiling joists - 2x6 framing165.00LF0.008.7594.15306.021843.92
+ 91| 33. Drywall - 5/8" - ceiling - complete412.00SF0.002.7520.76231.181387.10
+ 92| 34. Primer - PVA - ceiling surface412.00SF0.000.641.9253.12318.68
+ 93| 35. Texture - heavy hand applied - ceili412.00SF0.001.245.11103.32619.95
+ 94| 36. Masking - walls - poly & tape - for 88.00LF0.001.701.8430.36182.20
+ 95| 37. Paint - ceiling - 2 coats - flat412.00SF0.001.047.9887.32523.94
+ 96| 38. Recessed light - new install4.00EA0.00138.1111.01112.68676.13
+ 97| 39. LED bulb - standard - up to 800 lm4.00EA0.008.252.567.0642.30
+ 98| WALLS
+ 99| 40. Seal framing - shellac - walls588.00SF0.001.0712.76128.42770.50
+100| 41. Batt insulation - R13 - 3.5" - kraft294.00SF0.000.9714.8260.06360.36
+101| 42. 1/2" drywall - walls - hung taped fi588.00SF0.002.6427.80316.001896.00
+102| 43. Wall primer - PVA - one coat588.00SF0.000.642.7475.78454.66
+103| 44. Texture - heavy hand - walls588.00SF0.001.247.29147.64885.83
+104| 45. Masking - ceiling - for wall texture88.00LF0.001.701.8430.36182.20
+105| 46. Paint - walls - 2 coats - eggshell588.00SF0.001.0411.40124.68747.96
+106| FLOORING
+107| 47. Carpet cushion - premium 8lb368.00SF0.000.9223.4270.44422.58
+108| 48. Carpet - frieze - standard grade412.00SF0.003.7293.62321.461945.26
+109| 49. Vacuum after carpet install368.00SF0.000.120.008.8452.20
+110| TRIMWORK
+111| 50. Colonial baseboard - 2-1/4"76.00LF0.003.386.0852.56315.30
+112| 51. Baseboard finish - 2 coats - semi-gl76.00LF0.001.550.8223.74142.51
+113| FINAL CLEANING
+114| 52. Final clean - construction - per SF412.00SF0.000.330.0027.20162.76
+115| Totals: Living Room347.922425.3614575.06
+116| BOCA_WIND_ADJ10/04/2024Page: 4
+117| Empire Estimators, LLC
+118| Building Consultants and Estimators
+119| New York, NY
+120| BOCA_WIND_ADJ10/04/2024Page: 5
+121| Kitchen
+122| KitchenHeight: 8'
+123| 318.00 SF Walls          148.00 SF Ceiling
+124| 466.00 SF Walls & Ceiling   148.00 SF Floor
+125| 16.44 SY Flooring         52.00 LF Floor Perimeter
+126| 52.00 LF Ceil. Perimeter
+127| DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+128| CEILINGS
+129| 53. Demo - ceiling drywall removal - 5/8148.00SF1.150.000.0034.04204.24
+130| 54. Debris haul - drywall material148.00SF0.000.150.004.4426.64
+131| 55. Drywall ceiling - 5/8" - complete fi148.00SF0.002.757.4682.90497.36
+132| 56. PVA primer - ceiling148.00SF0.000.640.6919.08114.45
+133| 57. Orange peel texture - light148.00SF0.000.840.8124.98149.91
+134| 58. Mask walls - plastic/tape - overspra52.00LF0.001.701.0917.94107.61
+135| 59. Ceiling paint - 2 coats148.00SF0.001.042.8731.30187.77
+136| 60. Suspended grid system - 2'x4'74.00SF0.002.033.2130.68183.93
+137| 61. Ceiling tile - lay-in - 2x4 - standa74.00SF0.002.459.0538.10228.53
+138| 62. Recessed fixture - can type2.00EA0.00138.115.5156.34338.07
+139| 63. 4ft fluorescent light - high output1.00EA0.00156.367.5832.80196.74
+140| 64. Bulbs - T8 fluorescent - 4 pack1.00EA0.0027.242.115.8635.21
+141| WALLS
+142| 65. Wall framing seal - shellac318.00SF0.001.076.9069.48416.84
+143| 66. R-13 batt - kraft faced - walls159.00SF0.000.978.0132.46194.76
+144| 67. Drywall - 1/2" - walls - complete318.00SF0.002.6415.04170.881025.36
+145| 68. Primer - walls - PVA318.00SF0.000.641.4841.02246.10
+146| 69. Wall texture - heavy hand318.00SF0.001.243.9479.64477.82
+147| 70. Masking - ceiling edge - for texture52.00LF0.001.701.0917.94107.61
+148| 71. Wall paint - eggshell - 2 coats318.00SF0.001.046.1767.38404.31
+149| 72. Ceramic tile backsplash - 4x418.00SF0.0012.736.9147.22283.28
+150| 73. Thin-set addon - backsplash install18.00SF0.0014.450.0052.02312.12
+151| 74. Seal grout - tile backsplash18.00SF0.001.430.225.2031.16
+152| 75. Concrete slab sealer - brush148.00SF0.000.998.0230.88185.18
+153| 76. Mortar bed for tile - R&R148.00SF1.704.9426.36201.701210.06
+154| 77. Tile flooring - 12x12 ceramic - R&R148.00SF3.1411.1555.12433.462600.74
+155| 78. Grout sealer - floor148.00SF0.001.321.8339.38236.29
+156| CABINETS & COUNTERS
+157| 79. Lower cabinets - standard grade - pe18.00LF0.00196.46215.65708.504251.19
+158| 80. Upper cabinets - standard grade - pe14.00LF0.00176.81150.26525.083150.74
+159| 81. Laminate countertop - post form - pe18.00LF0.0032.507.6314.66655.13
+160| BOCA_WIND_ADJ10/04/2024Page: 5
+161| Empire Estimators, LLC
+162| Building Consultants and Estimators
+163| New York, NY
+164| BOCA_WIND_ADJ10/04/2024Page: 6
+165| CONTINUED - Kitchen
+166| DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+167| APPLIANCES & PLUMBING
+168| 82. Double bowl sink - undermount - inst1.00EA0.00116.270.0023.26139.53
+169| 83. Disposer - garbage - install1.00EA0.00111.850.0022.38134.23
+170| 84. Dishwasher - install and connect1.00EA0.00129.750.0025.96155.71
+171| 85. Reconnect refrigerator - top freezer1.00EA0.0027.600.005.5233.12
+172| 86. Range - slide in - electric - reinst1.00EA0.00103.330.0020.66123.99
+173| 87. Microwave - OTR with exhaust - reins1.00EA0.00130.890.0026.18157.07
+174| FINAL CLEANING
+175| 88. Cabinet knobs and pulls - hardware38.00EA0.009.8110.4276.68460.11
+176| 89. Construction clean - kitchen area148.00SF0.000.330.009.7858.62
+177| Totals: Kitchen565.433125.7819321.53
+178| BOCA_WIND_ADJ10/04/2024Page: 6
+
+--- Total: 178 non-empty lines ---

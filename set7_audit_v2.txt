@@ -1,0 +1,39 @@
+﻿PDF A: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set7\Contractor_Estimate_Set5.pdf
+PDF B: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set7\Adjuster_Estimate_Set5.pdf
+
+ΓöÇΓöÇ Raw extraction ΓöÇΓöÇ
+  PDF A: 192 lines
+  PDF B: 182 lines
+
+ΓöÇΓöÇ After pre-filter ΓöÇΓöÇ
+  PDF A: 192 ΓåÆ 153 lines (~219 tokens saved)
+  PDF B: 182 ΓåÆ 154 lines (~192 tokens saved)
+
+ΓöÇΓöÇ Deterministic pre-match ΓöÇΓöÇ
+  Auto-matched: 16 (11 exact MATCH, 5 MODIFIED)
+  Avg confidence: 0.87
+  Remaining for AI (yours): 137
+  Remaining for AI (adjuster): 138
+
+ΓöÇΓöÇ All auto-matches ΓöÇΓöÇ
+  #  1 [0.87 MODIFIED] YOUR: "Gut bathroom vanity - double sink" Γåö ADJ: "Remove vanity - double - haul"
+  #  2 [0.87 MATCH   ] YOUR: "Cement board - floor - 1/2" - R&RSF" Γåö ADJ: "Cement board - floor - 1/2""
+  #  3 [0.87 MATCH   ] YOUR: "Floor tile grout - sanded - color ma" Γåö ADJ: "Sanded grout - floor tile"
+  #  4 [0.87 MATCH   ] YOUR: "Grout sealer - floor" Γåö ADJ: "Penetrating grout sealer - floor"
+  #  5 [0.87 MODIFIED] YOUR: "Mosaic accent tile - shower niche" Γåö ADJ: "Accent mosaic - shower niche"
+  #  6 [0.87 MATCH   ] YOUR: "Shower niche - recessed - tiled" Γåö ADJ: "Tiled shower niche - recessed"
+  #  7 [0.87 MATCH   ] YOUR: "Tile grout - shower walls - epoxy" Γåö ADJ: "Epoxy grout - shower walls"
+  #  8 [0.87 MODIFIED] YOUR: "Recessed light - IC rated - shower" Γåö ADJ: "LED recessed shower light - IC rated"
+  #  9 [0.87 MATCH   ] YOUR: "Cement board - floor - 1/2"" Γåö ADJ: "1/2" cement board - floor substrate"
+  # 10 [0.87 MATCH   ] YOUR: "Floor grout - sanded" Γåö ADJ: "Sanded grout - floor"
+  # 11 [0.87 MODIFIED] YOUR: "PVA primer - walls and ceiling" Γåö ADJ: "PVA primer - walls"
+  # 12 [0.87 MODIFIED] YOUR: "Water heater - 50 gal - gas - R&REA" Γåö ADJ: "Water heater - 40 gal - gas - R&REA"
+  # 13 [0.87 MATCH   ] YOUR: "Final clean - utility room" Γåö ADJ: "Utility room final clean"
+  # 14 [0.87 MATCH   ] YOUR: "Primer - ceiling - PVASF" Γåö ADJ: "Ceiling primer - PVASF"
+  # 15 [0.87 MATCH   ] YOUR: "Paint ceiling - flat - 2 coats" Γåö ADJ: "Ceiling paint - 2 coat - flat white"
+  # 16 [0.87 MATCH   ] YOUR: "Hallway final clean" Γåö ADJ: "Clean - hallway - final"
+
+ΓöÇΓöÇ Converted to 16 RawLineItems (all MATCH status) ΓöÇΓöÇ
+
+ΓöÇΓöÇ Summary ΓöÇΓöÇ
+  Lines to AI: 275/307 (10.4% reduction from prematch)

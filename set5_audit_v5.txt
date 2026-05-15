@@ -1,0 +1,40 @@
+﻿PDF A: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set5\synthetic_xactimate_carrier_estimate_pair3.pdf
+PDF B: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set5\synthetic_xactimate_adjuster_estimate_pair3.pdf
+
+ΓöÇΓöÇ Raw extraction ΓöÇΓöÇ
+  PDF A: 165 lines
+  PDF B: 154 lines
+
+ΓöÇΓöÇ After pre-filter ΓöÇΓöÇ
+  PDF A: 165 ΓåÆ 112 lines (~482 tokens saved)
+  PDF B: 154 ΓåÆ 101 lines (~469 tokens saved)
+
+ΓöÇΓöÇ Deterministic pre-match ΓöÇΓöÇ
+  Auto-matched: 17 (5 exact MATCH, 12 MODIFIED)
+  Avg confidence: 0.87
+  Remaining for AI (yours): 95
+  Remaining for AI (adjuster): 84
+
+ΓöÇΓöÇ All auto-matches ΓöÇΓöÇ
+  #  1 [0.87 MODIFIED] YOUR: "Install wall batt insulation R" Γåö ADJ: "Install batt insulation - R"
+  #  2 [0.87 MATCH   ] YOUR: "Hang and finish 1/2 in drywall" Γåö ADJ: "Install drywall - 1/2 in"
+  #  3 [0.87 MODIFIED] YOUR: "Odor seal framing - shellac" Γåö ADJ: "Seal framing with shellac"
+  #  4 [0.87 MODIFIED] YOUR: "Install batt insulation R" Γåö ADJ: "Install batt insulation - R"
+  #  5 [0.87 MATCH   ] YOUR: "Vanity detach and reset" Γåö ADJ: "Detach reset vanity"
+  #  6 [0.87 MATCH   ] YOUR: "Sink trap assembly12" Γåö ADJ: "P-trap assembly12"
+  #  7 [0.87 MODIFIED] YOUR: "Paint grade crown molding" Γåö ADJ: "Crown molding"
+  #  8 [0.87 MODIFIED] YOUR: "Remove batt insulation" Γåö ADJ: "Remove insulation - batt"
+  #  9 [0.87 MATCH   ] YOUR: "Tile floor demo" Γåö ADJ: "Remove ceramic tile floor"
+  # 10 [0.87 MODIFIED] YOUR: "Carpet tear-out" Γåö ADJ: "Remove carpet"
+  # 11 [0.87 MODIFIED] YOUR: "Broadloom carpet install" Γåö ADJ: "Install carpet"
+  # 12 [0.87 MATCH   ] YOUR: "Tile mortar bed" Γåö ADJ: "Assorted mortar bed for tile floor"
+  # 13 [0.87 MODIFIED] YOUR: "Add for dustless sanding" Γåö ADJ: "Dustless floor sanding add"
+  # 14 [0.87 MODIFIED] YOUR: "Ceramic tile floor install" Γåö ADJ: "Install ceramic tile floor"
+  # 15 [0.87 MODIFIED] YOUR: "Two-coat ceiling paint" Γåö ADJ: "Paint ceiling - two coats"
+  # 16 [0.87 MODIFIED] YOUR: "Two-coat wall paint" Γåö ADJ: "Paint walls - two coats"
+  # 17 [0.87 MODIFIED] YOUR: "Wallpaper wall prep" Γåö ADJ: "General prep wall for wallpaper"
+
+ΓöÇΓöÇ Converted to 17 RawLineItems (all MATCH status) ΓöÇΓöÇ
+
+ΓöÇΓöÇ Summary ΓöÇΓöÇ
+  Lines to AI: 179/213 (16.0% reduction from prematch)

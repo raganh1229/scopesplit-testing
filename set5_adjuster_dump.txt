@@ -1,0 +1,154 @@
+1|Summit Estimating Group
+2|Independent Building Consultants
+3|Test Scenario Estimate
+4|TEST_PAIR3_ADJ
+5|Type of Estimate: Water / Interior Damage
+6|Price List: FLOR8X_APR26
+7|Client: Northwind Holdings
+8|Property: 742 Cypress Bend Rd, Orlando, FL
+9|Operator: TESTDATA
+10|Labor Efficiency: Restoration/Service/Remodel
+11|Estimator: Summit Estimating Group
+12|Date Entered: 04/17/2026
+13|Page: 1
+14|#DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+15|PAINTING
+16|1.Paint ceiling - two coats205.12 SF0.003.0824.83116.11772.71
+17|9.Paint door opening - two coats45.33 EA0.000.370.752.2919.81
+18|14.Paint closet shelving31.13 SF0.002.251.867.5279.42
+19|33.General sample color approval10 EA0.002.771.255.1534.10
+20|35.Paint window trim24 LF0.003.022.8313.0188.32
+21|40.Paint crown molding - two coats30 LF0.002.071.9210.2774.29
+22|49.Paint baseboard - two coats8 LF0.001.440.271.2313.02
+23|51.Prime and paint door slab3 EA0.001.680.220.455.71
+24|53.Wallpaper - high grade242.26 SF0.000.443.2816.70126.57
+25|64.General prep wall for wallpaper22.43 SF0.003.343.038.3086.25
+26|66.Paint walls - two coats66.83 SF0.002.515.1114.56187.41
+27|Subtotal: Painting45.35195.591,487.61
+28|PLUMBING & HVAC
+29|2.Detach reset toilet10 EA1.8145.1026.9467.98564.02
+30|10.P-trap assembly12 EA0.7371.2237.15158.541,059.09
+31|15.Duct cleaning31.13 LF1.36131.71215.28483.024,840.77
+32|25.Detach reset vanity18.10 EA1.19194.69136.86572.394,254.68
+33|52.Supply line set6 EA1.73139.1132.4876.19953.71
+34|59.Replace flexible duct79.56 LF0.9684.77459.99917.128,197.79
+35|65.Condensate line flush2 EA1.3053.396.5219.13135.03
+36|67.Detach reset AC register20.25 EA0.05105.99145.62362.952,655.88
+37|84.Temporary toilet - per month3 MO1.60160.7817.4670.77575.37
+38|Subtotal: Plumbing & HVAC1,078.302,728.0923,236.34
+39|FINISH CARPENTRY
+40|3.Baseboard - 3 1/4 in20 LF0.4787.0673.39163.581,987.57
+41|5.Seal and paint cabinetry145.88 SF0.00120.57759.562,217.8920,566.20
+42|24.Crown molding66.83 LF0.15243.41581.302,952.4019,810.81
+43|27.Cabinetry - lower units118.38 SF0.00305.791,297.576,464.5243,961.51
+44|29.Window blind - PVC70.36 SF3.47117.28302.861,147.599,946.42
+45|36.Closet shelf and rod32 LF0.00109.78173.28448.244,134.48
+46|41.Door knob / lockset8 EA0.00227.6287.47174.652,083.08
+47|46.Bifold door set12.50 EA0.00145.02112.67279.542,204.96
+48|70.Touch-up stain kit1 EA0.9157.673.796.0968.46
+49|71.Bookcase - built in18.10 SF0.00244.67189.63787.545,405.70
+50|78.Organized closet shelving22.43 SF0.00212.49307.66719.485,793.29
+51|81.Interior door - prehung8 EA0.00104.6554.82143.931,035.95
+52|85.Casing - 2 1/4 in30 LF0.80167.15193.29885.816,117.60
+53|Subtotal: Finish Carpentry4,137.2916,391.26123,116.03
+54|ELECTRICAL
+55|4.General temporary spider box4 EA1.5131.137.3423.55161.45
+56|19.Rewire average residence8 EA0.00171.0146.74134.891,549.71
+57|23.Circuit breaker - 20 amp8 EA0.0057.0822.5843.65522.87
+58|44.Chandelier fixture20.25 EA0.00147.08123.62293.593,395.58
+59|60.Smoke detector6 EA0.0014.054.3811.59100.27
+60|62.Low voltage cable16 LF0.4092.6275.91132.221,696.45
+61|63.LED bulb - A193 EA12.5070.889.3240.86300.32
+62|TEST_PAIR3_ADJGenerated for parser/diff testing
+63|Summit Estimating Group
+64|Independent Building Consultants
+65|Test Scenario Estimate
+66|TEST_PAIR3_ADJ
+67|Type of Estimate: Water / Interior Damage
+68|Price List: FLOR8X_APR26
+69|Client: Northwind Holdings
+70|Property: 742 Cypress Bend Rd, Orlando, FL
+71|Operator: TESTDATA
+72|Labor Efficiency: Restoration/Service/Remodel
+73|Estimator: Summit Estimating Group
+74|Date Entered: 04/17/2026
+75|Page: 2
+76|#DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+77|ELECTRICAL (CONTINUED)
+78|86.Allowance for main breaker panel - 200 amp20.25 EA0.00117.2283.96219.842,677.51
+79|Subtotal: Electrical373.85900.1910,404.16
+80|DRYWALL & INSULATION
+81|6.Texture drywall - light hand118.38 SF1.003.4615.8452.65596.46
+82|7.Additional high wall charge131.69 SF0.334.4625.0772.09727.96
+83|20.Assorted seal ceiling with PVA primer11.26 SF0.002.901.235.0638.94
+84|31.Install drywall - 1/2 in205.12 SF0.000.865.1019.99201.49
+85|39.Install batt insulation - R2140.57 SF0.003.783.6527.83184.83
+86|48.Install batt insulation - R13145.88 SF0.001.396.4930.64239.90
+87|55.Seal framing with shellac145.88 SF0.000.873.6413.40143.96
+88|61.Seal walls with PVA primer131.69 SF0.001.106.4819.07170.41
+89|69.Install drywall - 5/8 in ceiling118.38 SF0.002.296.2132.41309.71
+90|87.Texture drywall - heavy hand205.12 SF0.003.2321.10107.67791.31
+91|Subtotal: Drywall & Insulation94.81380.813,404.97
+92|FLOORING
+93|8.Install carpet pad11.26 SF0.007.224.529.3595.17
+94|11.Install carpet395.51 SF0.0010.07174.42671.704,828.91
+95|12.Moisture test floor slab66.83 SF0.4113.1258.43122.971,085.61
+96|21.Assorted mortar bed for tile floor205.12 SF31.1312.79443.601,086.6410,539.11
+97|32.Sand stain finish wood floor57.08 SF0.966.5826.7774.85532.00
+98|34.Grout sealer465.89 SF0.009.15231.50620.525,114.91
+99|38.Vacuum loose fibers20.25 EA0.470.000.361.1511.03
+100|45.Additional finish coat20.25 EA0.248.239.9917.98199.49
+101|68.Dustless floor sanding add11.26 SF0.2013.269.1925.14185.89
+102|76.Concrete sealer242.26 SF0.003.2543.1892.40922.92
+103|79.Install ceramic tile floor395.51 SF0.00104.652,441.194,767.9248,599.23
+104|Subtotal: Flooring3,443.157,490.6272,114.27
+105|DEMOLITION
+106|13.Remove door slab2 EA1.4766.834.4612.52153.58
+107|22.Remove carpet pad205.12 SF1.080.006.2339.94267.70
+108|26.Detach light fixture1 EA0.008.950.281.0910.32
+109|42.Selective demolition setup4 EA1.990.000.190.999.14
+110|50.Remove carpet57.08 SF1.790.003.239.93115.33
+111|72.Remove insulation - batt28.81 SF0.960.001.053.6932.40
+112|73.Detach baseboard16 LF1.050.000.432.9920.22
+113|74.Detach vanity top20.25 EA0.5314.6910.2247.62366.05
+114|80.Remove crown molding20 LF1.160.000.942.3926.53
+115|82.Remove ceramic tile floor104.65 SF2.170.006.6826.65260.42
+116|Subtotal: Demolition33.71147.811,261.69
+117|GENERAL REQUIREMENTS
+118|16.Temporary board-up3 EA1.3857.086.2126.66208.25
+119|17.HEPA air scrubber - per day10 DA1.1642.4918.4967.25522.24
+120|18.Floor protection - plastic & tape57.08 SF0.0084.51174.02680.505,678.35
+121|28.Permit allowance4 EA0.00104.1010.5444.83471.77
+122|30.Air mover - per day2 DA1.03114.479.7334.90275.63
+123|TEST_PAIR3_ADJGenerated for parser/diff testing
+124|Summit Estimating Group
+125|Independent Building Consultants
+126|Test Scenario Estimate
+127|TEST_PAIR3_ADJ
+128|Type of Estimate: Water / Interior Damage
+129|Price List: FLOR8X_APR26
+130|Client: Northwind Holdings
+131|Property: 742 Cypress Bend Rd, Orlando, FL
+132|Operator: TESTDATA
+133|Labor Efficiency: Restoration/Service/Remodel
+134|Estimator: Summit Estimating Group
+135|Date Entered: 04/17/2026
+136|Page: 3
+137|#DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+138|GENERAL REQUIREMENTS (CONTINUED)
+139|37.Project management - per hour4 HR1.6573.879.2736.20347.55
+140|47.Dumpster load - 20 yard28.81 EA1.8965.2556.95238.602,229.85
+141|54.Contents manipulation2 EA1.43110.608.8436.42269.32
+142|75.Supervisor travel time57.08 HR1.7459.1480.68606.314,162.02
+143|77.Portable dehumidifier - per day7 DA1.0146.349.3355.72396.50
+144|Subtotal: General Requirements384.061,827.3914,561.48
+145|FINAL CLEANING
+146|43.Trash bag disposal2 EA0.101.340.100.283.26
+147|56.HEPA vacuum surfaces1 EA0.330.000.010.030.37
+148|57.Odor counteractant fogging1 DA0.002.000.060.272.33
+149|58.Final cleaning - residential20.25 EA0.1612.507.5431.05294.96
+150|83.Wipe down horizontal surfaces131.69 SF0.450.002.119.9771.34
+151|Subtotal: Final Cleaning9.8241.60372.26
+152|GRAND TOTALS9,600.3430,103.36249,958.81
+153|Total line items: 87
+154|TEST_PAIR3_ADJGenerated for parser/diff testing

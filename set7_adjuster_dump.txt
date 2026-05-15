@@ -1,0 +1,182 @@
+1|Empire Estimators, LLC
+2|Building Consultants and Estimators
+3|New York, NY
+4|Client:Angela & David Park
+5|Property:4210 Collins Ave Unit 3B
+6|Miami Beach, FL 33140
+7|Operator:ADJ_BROOKS
+8|Estimator:Empire Estimators, LLC
+9|Type of Estimate:Water Damage - Plumbing
+10|Date Entered:3/01/2025
+11|Price List:FLDA8X_FEB25
+12|Labor Efficiency:Restoration/Service/Remodel
+13|Estimate:MBEACH_WTR_ADJ
+14|MBEACH_WTR_ADJ3/01/2025Page: 1
+15|Empire Estimators, LLC
+16|Building Consultants and Estimators
+17|New York, NY
+18|MBEACH_WTR_ADJ3/01/2025Page: 2
+19|General
+20|General
+21|DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+22|ADMIN
+23|1. Project Management - per hour90.00HR0.0078.060.001405.088430.48
+24|2. Technician - demo & cleanup - hourly20.00HR0.0046.410.00185.641113.84
+25|DEBRIS
+26|3. Dumpster - 15 CY - small job1.00EA525.000.0054.39105.00684.39
+27|MITIGATION
+28|4. Water extraction - portable unit1.00EA0.00950.000.00190.001140.00
+29|5. Dehumidifier - per unit per day10.00DA0.0065.000.00130.00780.00
+30|6. Air mover - per unit per day20.00DA0.0028.000.00112.00672.00
+31|7. Antimicrobial application - spray850.00SF0.000.450.0076.50459.00
+32|Totals: General54.392204.2213279.71
+33|MBEACH_WTR_ADJ3/01/2025Page: 2
+34|Empire Estimators, LLC
+35|Building Consultants and Estimators
+36|New York, NY
+37|MBEACH_WTR_ADJ3/01/2025Page: 3
+38|2nd Floor Hallway
+39|2nd Floor HallwayHeight: 8'
+40|DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+41|CEILINGS
+42|8. Drywall removal - ceiling - water dam55.00SF1.150.000.0012.6575.90
+43|9. Install 5/8" ceiling drywall - comple55.00SF0.002.752.7830.80184.83
+44|10. Ceiling primer - PVA55.00SF0.000.640.267.1042.56
+45|11. Ceiling paint - 2 coat - flat white55.00SF0.001.041.0611.6669.96
+46|FLOORING
+47|12. Remove hardwood - damaged section55.00SF1.850.000.0020.35122.10
+48|13. Oak hardwood - 3/4" solid - #2 commo55.00SF0.0010.2512.10114.00690.35
+49|14. Sand and finish wood floor - 3 coats55.00SF0.005.816.8564.58414.68
+50|TRIM
+51|15. Baseboard - 3-1/4" - primed MDF24.00LF0.003.381.7416.4297.88
+52|16. Baseboard paint - 2 coat24.00LF0.001.550.287.4845.48
+53|CLEANING
+54|17. Clean - hallway - final55.00SF0.000.330.003.6421.79
+55|Totals: 2nd Floor Hallway25.07288.681765.53
+56|MBEACH_WTR_ADJ3/01/2025Page: 3
+57|Empire Estimators, LLC
+58|Building Consultants and Estimators
+59|New York, NY
+60|MBEACH_WTR_ADJ3/01/2025Page: 4
+61|Utility Room
+62|Utility RoomHeight: 8'
+63|DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+64|DEMO
+65|18. Remove drywall - walls - water damag180.00SF1.150.000.0041.40248.40
+66|19. Ceiling drywall removal - damaged65.00SF1.150.000.0014.9589.70
+67|TREATMENT
+68|20. Antimicrobial spray - walls245.00SF0.000.850.0041.65249.90
+69|DRYWALL
+70|21. Batt insulation - R13 - walls - unfa180.00SF0.000.979.0736.72220.39
+71|22. Drywall - 1/2" - walls - tape & fini180.00SF0.002.6410.1996.84581.11
+72|23. Drywall - 5/8" - ceiling - tape & fi65.00SF0.002.753.5935.62213.69
+73|PAINT
+74|24. PVA primer - walls180.00SF0.000.640.8423.24139.44
+75|25. PVA primer - ceiling65.00SF0.000.640.308.4050.36
+76|26. Paint walls - eggshell - 2 coats180.00SF0.001.043.4938.24229.33
+77|27. Paint ceiling - flat - 2 coats65.00SF0.001.041.2513.6681.91
+78|FLOORING
+79|28. LVP flooring - waterproof core - R&R65.00SF0.003.955.5151.96308.61
+80|MECHANICAL
+81|29. Water heater - 40 gal - gas - R&R1.00EA0.001250.00129.44250.001629.44
+82|30. Utility room final clean65.00SF0.000.330.004.3025.75
+83|CLEANING
+84|Totals: Utility Room163.68656.984068.03
+85|MBEACH_WTR_ADJ3/01/2025Page: 4
+86|Empire Estimators, LLC
+87|Building Consultants and Estimators
+88|New York, NY
+89|MBEACH_WTR_ADJ3/01/2025Page: 5
+90|Guest Bath
+91|Guest BathHeight: 8'
+92|DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+93|DEMO
+94|31. Remove floor tile - ceramic45.00SF1.850.000.0016.6599.90
+95|32. Tear out tub surround tile56.00SF2.100.000.0023.52141.12
+96|33. Remove bathtub - standard - haul1.00EA125.000.000.0025.00150.00
+97|FLOOR
+98|34. 1/2" cement board - floor substrate45.00SF0.004.854.6844.10262.43
+99|35. Liquid waterproofing - floor45.00SF0.004.504.3440.96243.71
+100|36. Floor tile - porcelain - 12x12 - sta45.00SF0.0011.1510.76101.52603.86
+101|37. Sanded grout - floor45.00SF0.001.751.6915.9094.59
+102|38. Grout sealer - penetrating45.00SF0.001.321.2712.0071.37
+103|TUB/SHOWER
+104|39. Acrylic tub/shower unit - 60" - stan1.00EA0.00725.0075.07145.00945.07
+105|40. Shower valve - pressure balance - ch1.00EA0.00245.0025.3849.00319.38
+106|41. 1/4" cement board - tub walls56.00SF0.004.755.7153.76325.71
+107|42. Subway tile - tub surround - 3x656.00SF0.0010.5012.62118.94720.22
+108|43. Grout - tub walls56.00SF0.001.752.1019.80117.90
+109|VANITY/FIXTURES
+110|44. Vanity - single - laminate top - 24"1.00EA0.00425.0044.0385.00554.03
+111|45. Faucet - single lever - chrome1.00EA0.0095.009.8419.00123.84
+112|46. Toilet - round - standard height1.00EA0.00275.0028.4955.00358.49
+113|Totals: Guest Bath225.98825.155131.62
+114|MBEACH_WTR_ADJ3/01/2025Page: 5
+115|Empire Estimators, LLC
+116|Building Consultants and Estimators
+117|New York, NY
+118|MBEACH_WTR_ADJ3/01/2025Page: 6
+119|Master Bath
+120|Master BathHeight: 8'
+121|DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+122|DEMO
+123|47. Demo floor tile - porcelain72.00SF1.850.000.0026.64159.84
+124|48. Remove cement board substrate - floo72.00SF0.850.000.0012.2473.44
+125|49. Tear out shower wall tile96.00SF2.100.000.0040.32241.92
+126|50. Remove vanity - double - haul1.00EA95.000.000.0019.00114.00
+127|51. Toilet removal - disconnect & haul1.00EA45.000.000.009.0054.00
+128|PLUMBING
+129|52. Plumber - relocate supply lines1.00EA0.001200.000.00240.001440.00
+130|53. Plumber - waste/vent rough-in1.00EA0.001400.000.00280.001680.00
+131|54. Plumber - fixture set - final connec1.00EA0.00850.000.00170.001020.00
+132|FLOOR TILE
+133|55. Cement board - floor - 1/2"72.00SF0.004.857.4970.56426.41
+134|56. Liquid applied waterproofing - floor72.00SF0.004.506.9565.52483.47
+135|57. Porcelain floor tile - 12x24 - stand72.00SF0.0011.5017.77167.401021.17
+136|58. Sanded grout - floor tile72.00SF0.001.752.7020.20149.30
+137|59. Penetrating grout sealer - floor72.00SF0.001.322.0415.24112.48
+138|60. Radiant floor heating - electric mat72.00SF0.0016.5225.52190.721407.76
+139|SHOWER WALLS
+140|61. 1/4" backer board - shower walls96.00SF0.004.759.7992.16556.99
+141|62. Waterproof - shower walls - liquid96.00SF0.004.509.2787.36528.63
+142|63. Ceramic wall tile - shower - 12x24 -96.00SF0.0014.2529.37276.961674.33
+143|64. Accent mosaic - shower niche6.00SF0.0025.003.2230.36183.58
+144|65. Tiled shower niche - recessed1.00EA0.00244.1925.2748.84318.30
+145|66. Epoxy grout - shower walls96.00SF0.002.254.6443.68263.92
+146|SHOWER DOOR
+147|67. Framed shower door - 1/4" clear glas25.00SF0.0042.0022.53212.541285.07
+148|VANITY & TOILET
+149|68. Double vanity - quartz top - 60"1.00EA0.001650.00170.87330.002150.87
+150|69. Faucet - widespread - brushed nickel2.00EA0.00185.0019.1674.00463.16
+151|70. Toilet - elongated - ADA height1.00EA0.00425.0044.0385.00554.03
+152|71. Exhaust fan - 80CFM - R&R1.00EA0.00145.0015.0229.00189.02
+153|72. LED recessed shower light - IC rated2.00EA0.00138.115.9355.24337.39
+154|LIGHTING
+155|Totals: Master Bath421.572691.9816889.08
+156|MBEACH_WTR_ADJ3/01/2025Page: 6
+157|Empire Estimators, LLC
+158|Building Consultants and Estimators
+159|New York, NY
+160|MBEACH_WTR_ADJ3/01/2025Page: 7
+161|Additional / Plumbing
+162|Additional / Plumbing
+163|DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+164|PIPE REPAIRS
+165|73. Supply line repair - 3/4" copper25.00LF0.0012.506.7063.20382.20
+166|74. Drain repair - 2" PVC20.00LF0.008.753.7535.40213.90
+167|VALVES & FITTINGS
+168|75. Quarter turn valve - 1/2"6.00EA0.0022.002.8326.68160.51
+169|76. P-trap - PVC - 1-1/4"3.00EA0.0035.002.2521.00128.25
+170|77. Braided supply connector - SS8.00EA0.0018.503.1729.92180.17
+171|ELECTRICAL
+172|78. GFCI receptacle - install4.00EA0.0075.006.4360.00366.43
+173|79. Recessed LED downlight - 4" - R&R6.00EA0.00125.0016.09150.00916.09
+174|MISC
+175|80. Drywall patch - small - per each4.00EA0.0085.007.2968.00415.29
+176|81. Touch up paint - per room3.00EA0.0075.000.0045.00270.00
+177|82. Carpet cleaning - hot water extracti350.00SF0.000.350.0024.50147.00
+178|83. Content reset - per room4.00EA0.00250.000.00200.001200.00
+179|INSPECTION
+180|84. Final inspection - walkthrough3.00HR0.0078.060.0046.84281.02
+181|Totals: Additional / Plumbing48.51770.544660.86
+182|MBEACH_WTR_ADJ3/01/2025Page: 7

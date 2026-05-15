@@ -1,0 +1,21 @@
+﻿PDF A: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set7\Contractor_Estimate_Set5.pdf
+PDF B: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set7\Adjuster_Estimate_Set5.pdf
+
+ΓöÇΓöÇ Raw extraction ΓöÇΓöÇ
+  PDF A: 192 lines
+  PDF B: 182 lines
+
+ΓöÇΓöÇ After pre-filter ΓöÇΓöÇ
+  PDF A: 192 ΓåÆ 153 lines (~219 tokens saved)
+  PDF B: 182 ΓåÆ 154 lines (~192 tokens saved)
+
+ΓöÇΓöÇ Deterministic pre-match ΓöÇΓöÇ
+  Auto-matched: 0 (0 exact MATCH, 0 MODIFIED)
+  Avg confidence: 0
+  Remaining for AI (yours): 153
+  Remaining for AI (adjuster): 154
+
+ΓöÇΓöÇ Converted to 0 RawLineItems (all MATCH status) ΓöÇΓöÇ
+
+ΓöÇΓöÇ Summary ΓöÇΓöÇ
+  Lines to AI: 307/307 (0.0% reduction from prematch)

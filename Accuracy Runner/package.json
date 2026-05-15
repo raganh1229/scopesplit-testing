@@ -1,0 +1,14 @@
+{
+  "name": "accuracy-runner",
+  "version": "1.0.0",
+  "description": "Automated end-to-end accuracy testing for the Estimatch comparison pipeline",
+  "type": "commonjs",
+  "scripts": {
+    "setup": "node setup-auth.js",
+    "run": "node runner.js",
+    "run:set": "node runner.js --set"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}

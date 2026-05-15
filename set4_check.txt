@@ -1,0 +1,103 @@
+﻿PDF A: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set4\Contractor_Estimate_Test_Set2.pdf
+PDF B: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set4\Adjuster_Estimate_Test_Set2.pdf
+
+ΓöÇΓöÇ Raw extraction ΓöÇΓöÇ
+  PDF A: 211 lines
+  PDF B: 199 lines
+
+ΓöÇΓöÇ After pre-filter ΓöÇΓöÇ
+  PDF A: 211 ΓåÆ 166 lines (~298 tokens saved)
+  PDF B: 199 ΓåÆ 155 lines (~296 tokens saved)
+
+ΓöÇΓöÇ Deterministic pre-match ΓöÇΓöÇ
+  Auto-matched: 80 (73 exact MATCH, 7 MODIFIED)
+  Avg confidence: 0.881
+  Remaining for AI (yours): 86
+  Remaining for AI (adjuster): 75
+
+ΓöÇΓöÇ All auto-matches ΓöÇΓöÇ
+  #  1 [0.87 MODIFIED] YOUR: "Residential Supervision / Project" Γåö ADJ: "Residential Supervision / Project"
+  #  2 [0.87 MODIFIED] YOUR: "Cleaning Technician - per hour -" Γåö ADJ: "Cleaning Technician - per hour -"
+  #  3 [0.87 MODIFIED] YOUR: "Dumpster load - Approx. 30 yards" Γåö ADJ: "Dumpster load - Approx. 20 yards"
+  #  4 [0.87 MATCH   ] YOUR: "Megohmmeter check electrical circ" Γåö ADJ: "Megohmmeter check electrical circ"
+  #  5 [0.87 MODIFIED] YOUR: "Floor protection - plastic and ta" Γåö ADJ: "Floor protection - plastic and ta"
+  #  6 [0.97 MATCH   ] YOUR: "Walls Ceiling" Γåö ADJ: "Walls Ceiling"
+  #  7 [0.97 MATCH   ] YOUR: "Walls & Ceiling Floor" Γåö ADJ: "Walls & Ceiling Floor"
+  #  8 [0.97 MATCH   ] YOUR: "Ceil. Perimeter" Γåö ADJ: "Ceil. Perimeter"
+  #  9 [0.87 MATCH   ] YOUR: "Sand, stain, and finish wood floo" Γåö ADJ: "Sand, stain, and finish wood floo"
+  # 10 [0.87 MATCH   ] YOUR: "Add for dustless floor sanding" Γåö ADJ: "Add for dustless floor sanding"
+  # 11 [0.87 MATCH   ] YOUR: "Additional coats of finish (per" Γåö ADJ: "Additional coats of finish (per"
+  # 12 [0.87 MATCH   ] YOUR: "Batt insulation - 6" - R21 - unf" Γåö ADJ: "Batt insulation - 6" - R21 - unf"
+  # 13 [0.87 MATCH   ] YOUR: "1/2" drywall - hung, taped, read" Γåö ADJ: "1/2" drywall - hung, taped, read"
+  # 14 [0.87 MATCH   ] YOUR: "Tape joint - new to existing dry" Γåö ADJ: "Tape joint - new to existing dry"
+  # 15 [0.87 MATCH   ] YOUR: "Seal walls w/PVA primer - one co" Γåö ADJ: "Seal walls w/PVA primer - one co"
+  # 16 [0.87 MATCH   ] YOUR: "Texture drywall - light hand tex" Γåö ADJ: "Texture drywall - light hand tex"
+  # 17 [0.87 MATCH   ] YOUR: "Paint the walls - two coats" Γåö ADJ: "Paint the walls - two coats"
+  # 18 [0.87 MATCH   ] YOUR: "Batt insulation - 10" - R30 - un" Γåö ADJ: "Batt insulation - 10" - R30 - un"
+  # 19 [0.87 MATCH   ] YOUR: "5/8" drywall - hung, taped, read" Γåö ADJ: "5/8" drywall - hung, taped, read"
+  # 20 [0.87 MATCH   ] YOUR: "Paint the ceiling - two coats" Γåö ADJ: "Paint the ceiling - two coats"
+  # 21 [0.87 MATCH   ] YOUR: "Scaffold - per section (per day)DA" Γåö ADJ: "Scaffold - per section (per day)DA"
+  # 22 [0.87 MATCH   ] YOUR: "Scaffolding Setup & Take down -" Γåö ADJ: "Scaffolding Setup & Take down -"
+  # 23 [0.87 MATCH   ] YOUR: "Baseboard - 3 1/4"" Γåö ADJ: "Baseboard - 3 1/4""
+  # 24 [0.87 MATCH   ] YOUR: "Seal & paint baseboard - two coa" Γåö ADJ: "Seal & paint baseboard - two coa"
+  # 25 [0.87 MATCH   ] YOUR: "Casing - 2 1/4"" Γåö ADJ: "Casing - 2 1/4""
+  # 26 [0.87 MATCH   ] YOUR: "Seal & paint casing - two coats" Γåö ADJ: "Seal & paint casing - two coats"
+  # 27 [0.87 MODIFIED] YOUR: "R&R French door - Exterior - pre" Γåö ADJ: "R&R French door - Exterior - pre"
+  # 28 [0.87 MATCH   ] YOUR: "Paint door slab only - 2 coats (" Γåö ADJ: "Paint door slab only - 2 coats ("
+  # 29 [0.87 MATCH   ] YOUR: "Detach & Reset Door lockset - ex" Γåö ADJ: "Detach & Reset Door lockset - ex"
+  # 30 [0.87 MATCH   ] YOUR: "Ceiling fan - Detach & reset" Γåö ADJ: "Ceiling fan - Detach & reset"
+  # 31 [0.87 MATCH   ] YOUR: "Recessed light fixture - Detach" Γåö ADJ: "Recessed light fixture - Detach"
+  # 32 [0.87 MATCH   ] YOUR: "Rewire - avg residence - copper" Γåö ADJ: "Rewire - avg residence - copper"
+  # 33 [0.87 MATCH   ] YOUR: "Detach & Reset AC unit" Γåö ADJ: "Detach & Reset AC unit"
+  # 34 [0.97 MATCH   ] YOUR: "Walls Ceiling" Γåö ADJ: "Walls Ceiling"
+  # 35 [0.97 MATCH   ] YOUR: "Walls & Ceiling Floor" Γåö ADJ: "Walls & Ceiling Floor"
+  # 36 [0.97 MATCH   ] YOUR: "Ceil. Perimeter" Γåö ADJ: "Ceil. Perimeter"
+  # 37 [0.87 MATCH   ] YOUR: "Floor prep for resilient floorin" Γåö ADJ: "Floor prep for resilient floorin"
+  # 38 [0.87 MODIFIED] YOUR: "Vinyl floor covering (sheet good" Γåö ADJ: "Vinyl floor covering (sheet good"
+  # 39 [0.87 MATCH   ] YOUR: "Batt insulation - 6" - R21 - unf" Γåö ADJ: "Batt insulation - 6" - R21 - unf"
+  # 40 [0.87 MATCH   ] YOUR: "1/2" drywall - hung, taped, read" Γåö ADJ: "1/2" drywall - hung, taped, read"
+  # 41 [0.87 MATCH   ] YOUR: "1/2" - drywall per - up to 2'" Γåö ADJ: "1/2" - drywall per - up to 2'"
+  # 42 [0.87 MATCH   ] YOUR: "Tape joint - new to existing dry" Γåö ADJ: "Tape joint - new to existing dry"
+  # 43 [0.87 MATCH   ] YOUR: "Seal walls w/PVA primer - one co" Γåö ADJ: "Seal walls w/PVA primer - one co"
+  # 44 [0.87 MATCH   ] YOUR: "Texture drywall - light hand tex" Γåö ADJ: "Texture drywall - light hand tex"
+  # 45 [0.87 MATCH   ] YOUR: "Paint the walls - two coats" Γåö ADJ: "Paint the walls - two coats"
+  # 46 [0.87 MATCH   ] YOUR: "Paint the ceiling - two coats" Γåö ADJ: "Paint the ceiling - two coats"
+  # 47 [0.87 MATCH   ] YOUR: "Baseboard - 3 1/4"" Γåö ADJ: "Baseboard - 3 1/4""
+  # 48 [0.87 MATCH   ] YOUR: "Seal & paint baseboard - two coa" Γåö ADJ: "Seal & paint baseboard - two coa"
+  # 49 [0.87 MATCH   ] YOUR: "R&R Crown molding - 2 1/4"" Γåö ADJ: "R&R Crown molding - 2 1/4""
+  # 50 [0.87 MATCH   ] YOUR: "Paint crown molding - two coats" Γåö ADJ: "Paint crown molding - two coats"
+  # 51 [0.87 MATCH   ] YOUR: "Dryer - Gas" Γåö ADJ: "Dryer - Gas"
+  # 52 [0.87 MATCH   ] YOUR: "Interior door - solid core Colon" Γåö ADJ: "Interior door - solid core Colon"
+  # 53 [0.87 MATCH   ] YOUR: "Paint door slab only - 2 coats (" Γåö ADJ: "Paint door slab only - 2 coats ("
+  # 54 [0.87 MATCH   ] YOUR: "Water heater - Detach & reset" Γåö ADJ: "Water heater - Detach & reset"
+  # 55 [0.87 MATCH   ] YOUR: "Detach & Reset Breaker panel" Γåö ADJ: "Detach & Reset Breaker panel"
+  # 56 [0.97 MATCH   ] YOUR: "Walls Ceiling" Γåö ADJ: "Walls Ceiling"
+  # 57 [0.97 MATCH   ] YOUR: "Walls & Ceiling Floor" Γåö ADJ: "Walls & Ceiling Floor"
+  # 58 [0.97 MATCH   ] YOUR: "Ceil. Perimeter" Γåö ADJ: "Ceil. Perimeter"
+  # 59 [0.87 MATCH   ] YOUR: "Radiant floor heating system" Γåö ADJ: "Radiant floor heating system"
+  # 60 [0.87 MATCH   ] YOUR: "R&R 1/2" Cement board" Γåö ADJ: "R&R 1/2" Cement board"
+  # 61 [0.87 MATCH   ] YOUR: "R&R Mortar bed for tile floors" Γåö ADJ: "R&R Mortar bed for tile floors"
+  # 62 [0.87 MATCH   ] YOUR: "Grout sealer" Γåö ADJ: "Grout sealer"
+  # 63 [0.87 MODIFIED] YOUR: "R&R Mosaic - ceramic/porcelain t" Γåö ADJ: "R&R Mosaic - ceramic/porcelain t"
+  # 64 [0.87 MATCH   ] YOUR: "Waterproof membrane - tile under" Γåö ADJ: "Waterproof membrane - tile under"
+  # 65 [0.87 MATCH   ] YOUR: "R&R Shower drain - waterproof me" Γåö ADJ: "R&R Shower drain - waterproof me"
+  # 66 [0.87 MATCH   ] YOUR: "R&R 1/4" Cement board" Γåö ADJ: "R&R 1/4" Cement board"
+  # 67 [0.87 MATCH   ] YOUR: "R&R Tile framed shower curb - pe" Γåö ADJ: "R&R Tile framed shower curb - pe"
+  # 68 [0.87 MATCH   ] YOUR: "Seal grout on tile wall" Γåö ADJ: "Seal grout on tile wall"
+  # 69 [0.87 MATCH   ] YOUR: "R&R Tub/shower faucet - Premium" Γåö ADJ: "R&R Tub/shower faucet - Premium"
+  # 70 [0.87 MATCH   ] YOUR: "Toilet" Γåö ADJ: "Toilet"
+  # 71 [0.87 MATCH   ] YOUR: "Sink - single" Γåö ADJ: "Sink - single"
+  # 72 [0.87 MATCH   ] YOUR: "R&R Custom shower door - 1/2"" Γåö ADJ: "R&R Custom shower door - 1/2""
+  # 73 [0.87 MATCH   ] YOUR: "Mirror - 1/4" plate glass - gold" Γåö ADJ: "Mirror - 1/4" plate glass - gold"
+  # 74 [0.87 MATCH   ] YOUR: "Towel bar - High grade" Γåö ADJ: "Towel bar - High grade"
+  # 75 [0.87 MATCH   ] YOUR: "Toilet paper holder - High grade" Γåö ADJ: "Toilet paper holder - High grade"
+  # 76 [0.87 MATCH   ] YOUR: "Rewire - avg residence - copper" Γåö ADJ: "Rewire - avg residence - copper"
+  # 77 [0.87 MATCH   ] YOUR: "Rough in plumbing - supply and w" Γåö ADJ: "Rough in plumbing - supply and w"
+  # 78 [0.87 MATCH   ] YOUR: "Detach & Reset Siding - cedar sh" Γåö ADJ: "Detach & Reset Siding - cedar sh"
+  # 79 [0.87 MATCH   ] YOUR: "Clean surface area w/ pressure s" Γåö ADJ: "Clean surface area w/ pressure s"
+  # 80 [0.87 MATCH   ] YOUR: "Stain & finish wood siding" Γåö ADJ: "Stain & finish wood siding"
+
+ΓöÇΓöÇ Converted to 80 RawLineItems (all MATCH status) ΓöÇΓöÇ
+
+ΓöÇΓöÇ Summary ΓöÇΓöÇ
+  Lines to AI: 161/321 (49.8% reduction from prematch)

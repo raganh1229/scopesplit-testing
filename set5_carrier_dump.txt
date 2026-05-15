@@ -1,0 +1,165 @@
+1|Summit Estimating Group
+2|Independent Building Consultants
+3|Test Scenario Estimate
+4|TEST_PAIR3_CAR
+5|Type of Estimate: Water / Interior Damage
+6|Price List: FLOR8X_APR26
+7|Client: Northwind Holdings
+8|Property: 742 Cypress Bend Rd, Orlando, FL
+9|Operator: TESTDATA
+10|Labor Efficiency: Restoration/Service/Remodel
+11|Estimator: Summit Estimating Group
+12|Date Entered: 04/17/2026
+13|Page: 1
+14|#DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+15|DRYWALL & INSULATION
+16|1.Install wall batt insulation R13145.88 SF0.001.396.4930.64239.90
+17|2.Spot ceiling drywall - 5/8 inch100.62 SF0.002.297.6332.24270.29
+18|16.Wall skim coat allowance66.83 SF3.471.7812.5056.59419.95
+19|17.Ceiling PVA primer coat11.26 SF0.002.901.235.0638.94
+20|35.Hang and finish 1/2 in drywall205.12 SF0.000.865.1019.99201.49
+21|39.PVA seal coat on walls98.68 SF0.00104.65326.44936.0511,589.35
+22|42.Heavy hand texture finish307.68 SF0.003.2334.24139.911,167.96
+23|60.High wall add-on131.69 SF0.334.4625.0786.51742.38
+24|73.Light orange peel texture130.22 SF1.003.4625.4069.67675.85
+25|85.Odor seal framing - shellac145.88 SF0.000.873.6416.08146.64
+26|88.Install batt insulation R2160.86 SF0.00104.65237.91648.777,255.68
+27|Subtotal: Drywall & Insulation685.652,041.5122,748.43
+28|PLUMBING & HVAC
+29|3.Patch dryer disconnect/reset10 EA1.51177.03111.98296.342,193.72
+30|4.Clean HVAC ductwork31.13 LF1.36131.71215.28410.574,768.32
+31|30.Portable toilet monthly2.25 MO31.1328.816.6221.47162.96
+32|31.R&R flex duct79.56 LF0.9684.77459.991,008.838,289.50
+33|38.Water supply connectors6 EA1.73159.9333.97131.251,135.18
+34|44.Vanity detach and reset18.10 EA1.19194.69136.86572.394,254.68
+35|51.HVAC register detach / reset30.38 EA45.33104.65277.42570.485,404.29
+36|74.HVAC register boot20.25 EA1.51192.47141.20507.344,576.63
+37|81.Toilet detach and reset10 EA1.8138.2920.8574.51496.36
+38|92.Spot washer disconnect/reset3 EA0.91217.5830.45103.02788.94
+39|97.Sink trap assembly12 EA0.7371.2237.15158.541,059.09
+40|Subtotal: Plumbing & HVAC1,471.773,854.7433,129.67
+41|FINISH CARPENTRY
+42|5.2-1/4 in door casing30 LF0.80167.15193.29885.816,117.60
+43|20.Custom closet organizer33.33 SF0.00212.49439.99726.318,248.59
+44|23.Finish lower cabinets inside and out145.88 SF0.00120.57759.561,885.2120,233.52
+45|33.Double bifold doors12.50 EA0.00145.02135.20279.542,227.49
+46|34.Paint grade crown molding100.25 LF0.15104.65589.901,982.3513,078.45
+47|43.Interior passage lockset8 EA0.00227.6287.47174.652,083.08
+48|50.Shelf / rod package32 LF0.00109.78173.28448.244,134.48
+49|53.Prehung hollow core door10 EA0.00104.6552.12184.471,283.09
+50|55.A bunch of knobs and pulls set465.89 SF0.0066.291,615.843,134.7235,634.41
+51|67.Built-in shelving unit18.10 SF0.00244.67189.63787.545,405.70
+52|75.Spot quarter-round trim104.65 LF0.36293.681,139.755,197.5937,108.63
+53|79.Base cabinet units147.97 SF57.08104.651,389.502,373.2427,693.93
+54|80.3-1/4 in base trim20 LF0.4787.0688.07163.582,002.25
+55|84.PVC slat blind28.81 SF117.2828.81223.41516.634,948.89
+56|98.Field cabinet toe-kick facing57.08 LF0.44218.33734.371,704.0614,925.82
+57|Subtotal: Finish Carpentry7,811.3820,443.94185,125.93
+58|DEMOLITION
+59|6.Reset granite top removal25.31 EA0.5314.698.8239.47433.51
+60|10.Remove batt insulation28.81 SF0.960.000.683.4931.83
+61|19.Misc detach/reset misc hardware10 EA2.675.012.628.5287.94
+62|TEST_PAIR3_CARGenerated for parser/diff testing
+63|Summit Estimating Group
+64|Independent Building Consultants
+65|Test Scenario Estimate
+66|TEST_PAIR3_CAR
+67|Type of Estimate: Water / Interior Damage
+68|Price List: FLOR8X_APR26
+69|Client: Northwind Holdings
+70|Property: 742 Cypress Bend Rd, Orlando, FL
+71|Operator: TESTDATA
+72|Labor Efficiency: Restoration/Service/Remodel
+73|Estimator: Summit Estimating Group
+74|Date Entered: 04/17/2026
+75|Page: 2
+76|#DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+77|DEMOLITION (CONTINUED)
+78|26.Take down light fixture1 EA0.008.950.281.0910.32
+79|27.Pad tear-out256.40 SF1.08205.122,107.926,446.9361,424.53
+80|40.Crown trim tear-off57.08 LF1.16104.65253.921,059.637,353.18
+81|54.Tile floor demo104.65 SF2.170.006.6826.65260.42
+82|76.Take down interior door slab1.50 EA1.4766.833.6111.56117.62
+83|87.Take off base trim16 LF1.050.000.433.2920.52
+84|89.Carpet tear-out129.58 SF45.3318.10253.821,289.269,762.34
+85|96.Partial carpet tack strip removal12 LF1.130.000.542.0416.14
+86|Subtotal: Demolition2,639.328,891.9379,518.35
+87|ELECTRICAL
+88|7.Standard 20A breaker10 EA0.0018.107.8715.14204.01
+89|14.Phone / data low voltage wire16 LF0.4092.6275.91132.221,696.45
+90|22.Standard ground-fault receptacle10 EA0.0056.6126.9477.24670.28
+91|29.Average residential rewire8 EA0.00196.7395.17229.311,898.32
+92|36.Arc-fault breaker5 EA0.00124.8734.96114.76774.07
+93|56.Residential smoke alarm4.50 EA0.0066.8320.5533.85355.14
+94|63.Dining chandelier20.25 EA0.00147.08123.62293.593,395.58
+95|77.200A electrical panel31.13 EA57.0828.81118.10406.513,198.37
+96|82.Decorative pendant fixture6 EA0.00111.4027.3364.95760.68
+97|90.Field a19 LED lamp57.08 EA12.5070.88191.36463.255,413.94
+98|Subtotal: Electrical721.811,830.8218,366.84
+99|FLOORING
+100|8.Broadloom carpet install336.18 SF0.0010.07182.85569.754,137.93
+101|13.Concrete seal coat181.69 SF0.0028.81269.78498.796,003.06
+102|21.Tile mortar bed205.12 SF31.1312.79443.601,086.6410,539.11
+103|37.Post-install carpet vacuum15.19 EA12.5066.8355.70201.371,462.09
+104|45.Refinish wood flooring33.33 SF45.336.5889.74256.572,076.47
+105|46.Floor transition strip12.50 EA0.265.352.9110.7283.75
+106|49.Seal grout465.89 SF0.009.15231.50620.525,114.91
+107|58.Add for dustless sanding10.13 SF0.2013.266.9417.63160.92
+108|62.High grade carpet pad16.89 SF45.3311.2636.98120.691,113.48
+109|65.Extra floor finish coat20.25 EA0.248.238.4917.98197.99
+110|69.Ceramic tile floor install296.63 SF0.00104.651,923.573,594.7836,560.68
+111|72.Floor self-leveler8 EA0.2431.1311.0139.89301.86
+112|Subtotal: Flooring3,263.077,035.3367,752.25
+113|GENERAL REQUIREMENTS
+114|9.Drying equipment rental - dehu7 DA1.0146.349.3366.86407.64
+115|12.Site oversight hours4 HR1.6573.879.2736.20347.55
+116|15.Debris bin - 20 yd36.01 EA1.8928.8147.2097.731,250.44
+117|18.Negative air machine rental10 DA1.0742.4917.7252.87506.19
+118|24.Axial fan rental57.08 DA1.0318.1043.91144.151,280.00
+119|28.Moisture mapping service6 EA0.0062.7617.2252.90446.68
+120|47.Emergency board up service3 EA1.3857.087.4526.66209.49
+121|61.Poly floor protection48.52 SF0.0084.51125.01619.174,844.61
+122|64.Carrier file review labor12 HR1.8840.7418.2248.06577.72
+123|68.Permit and filing allowance6 EA0.00104.1021.4759.74705.81
+124|TEST_PAIR3_CARGenerated for parser/diff testing
+125|Summit Estimating Group
+126|Independent Building Consultants
+127|Test Scenario Estimate
+128|TEST_PAIR3_CAR
+129|Type of Estimate: Water / Interior Damage
+130|Price List: FLOR8X_APR26
+131|Client: Northwind Holdings
+132|Property: 742 Cypress Bend Rd, Orlando, FL
+133|Operator: TESTDATA
+134|Labor Efficiency: Restoration/Service/Remodel
+135|Estimator: Summit Estimating Group
+136|Date Entered: 04/17/2026
+137|Page: 3
+138|#DESCRIPTIONQTYREMOVEREPLACETAXO&PTOTAL
+139|GENERAL REQUIREMENTS (CONTINUED)
+140|78.Move contents and reset2 EA1.43110.607.5136.42267.99
+141|Subtotal: General Requirements324.311,240.7610,844.12
+142|PAINTING
+143|11.Two-coat ceiling paint205.12 SF0.0066.83375.361,279.0915,362.62
+144|25.Two-coat crown paint37.50 LF45.332.0769.77244.892,092.16
+145|32.Designer wallcovering363.39 SF0.0018.10193.551,089.187,860.09
+146|41.Two-coat wall paint98.68 SF2.5166.83210.201,129.208,181.87
+147|52.Coat closet shelf and rod57.08 SF0.002.254.9517.19150.57
+148|57.Prime / finish door slab3 EA0.001.680.220.455.71
+149|59.Two-coat jamb and casing paint70.36 EA31.1366.83198.90573.117,664.48
+150|66.Accent wall finish205.12 SF0.001.959.6360.18469.79
+151|70.Patch spot-prime3 EA0.002.260.250.857.88
+152|83.Two-coat base trim paint205.12 LF0.008.0049.98192.521,883.46
+153|91.Trim sheen upgrade16 LF0.491.831.653.1341.90
+154|94.Finish paint on window trim36 LF12.503.0215.4774.30648.49
+155|95.Wallpaper wall prep22.43 SF0.003.343.039.1387.08
+156|Subtotal: Painting1,132.964,673.2244,456.10
+157|FINAL CLEANING
+158|48.HEPA detail vacuuming1 EA0.330.000.010.030.37
+159|71.Detail wipe-down131.69 SF0.450.002.119.9771.34
+160|86.Bag and dispose of trash2 EA0.101.340.100.243.22
+161|93.Onsite construction final clean30.38 EA0.1612.5017.6768.89471.17
+162|Subtotal: Final Cleaning19.8979.13546.10
+163|GRAND TOTALS18,070.1650,091.38462,487.79
+164|Total line items: 98
+165|TEST_PAIR3_CARGenerated for parser/diff testing

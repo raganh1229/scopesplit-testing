@@ -1,0 +1,63 @@
+﻿PDF A: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set8\Contractor_Estimate_Set6.pdf
+PDF B: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set8\Adjuster_Estimate_Set6.pdf
+
+ΓöÇΓöÇ Raw extraction ΓöÇΓöÇ
+  PDF A: 198 lines
+  PDF B: 213 lines
+
+ΓöÇΓöÇ After pre-filter ΓöÇΓöÇ
+  PDF A: 198 ΓåÆ 156 lines (~242 tokens saved)
+  PDF B: 213 ΓåÆ 173 lines (~237 tokens saved)
+
+ΓöÇΓöÇ Deterministic pre-match ΓöÇΓöÇ
+  Auto-matched: 40 (30 exact MATCH, 10 MODIFIED)
+  Avg confidence: 0.87
+  Remaining for AI (yours): 116
+  Remaining for AI (adjuster): 133
+
+ΓöÇΓöÇ All auto-matches ΓöÇΓöÇ
+  #  1 [0.87 MODIFIED] YOUR: "Board up - windows - temporary" Γåö ADJ: "Board up - temporary - window"
+  #  2 [0.87 MATCH   ] YOUR: "Remove drywall - walls - fire/smoke" Γåö ADJ: "Remove wall drywall - fire/smoke"
+  #  3 [0.87 MATCH   ] YOUR: "R-19 batt insulation - ceiling" Γåö ADJ: "R-19 batt - ceiling"
+  #  4 [0.87 MATCH   ] YOUR: "R-13 batt insulation - walls" Γåö ADJ: "R-13 batt - walls"
+  #  5 [0.87 MATCH   ] YOUR: "5/8" drywall - ceiling - complete" Γåö ADJ: "5/8" drywall - ceiling - complete"
+  #  6 [0.87 MATCH   ] YOUR: "Texture - hand applied heavy - walls" Γåö ADJ: "Heavy texture - walls"
+  #  7 [0.87 MATCH   ] YOUR: "Paint ceiling - flat - 2 coats" Γåö ADJ: "Ceiling paint - flat - 2 coats"
+  #  8 [0.87 MATCH   ] YOUR: "Paint walls - eggshell - 2 coats" Γåö ADJ: "Wall paint - eggshell - 2 coats"
+  #  9 [0.87 MATCH   ] YOUR: "Mortar bed - tile floor - R&RSF" Γåö ADJ: "Mortar bed - floor tile"
+  # 10 [0.87 MATCH   ] YOUR: "Grout sealer - floor" Γåö ADJ: "Floor grout sealer"
+  # 11 [0.87 MODIFIED] YOUR: "Recessed light - 6" - IC - new" Γåö ADJ: "Recessed can light - 6" - new"
+  # 12 [0.87 MATCH   ] YOUR: "Paint crown molding - 2 coats" Γåö ADJ: "Paint crown - 2 coats"
+  # 13 [0.87 MATCH   ] YOUR: "5/8" fire-rated drywall - garage cei" Γåö ADJ: "Type X drywall - 5/8" - fire rated -"
+  # 14 [0.87 MATCH   ] YOUR: "Garage final clean" Γåö ADJ: "Garage clean"
+  # 15 [0.87 MATCH   ] YOUR: "Demo drywall - ceiling - smoke" Γåö ADJ: "Remove smoke-damaged ceiling drywall"
+  # 16 [0.87 MATCH   ] YOUR: "Demo drywall - walls - smoke" Γåö ADJ: "Remove smoke-damaged wall drywall"
+  # 17 [0.87 MODIFIED] YOUR: "Seal framing - shellac - odor" Γåö ADJ: "Odor seal - shellac - framing"
+  # 18 [0.87 MODIFIED] YOUR: "R-13 insulation - walls" Γåö ADJ: "R-13 wall insulation"
+  # 19 [0.87 MATCH   ] YOUR: "5/8" drywall - ceiling" Γåö ADJ: "5/8" drywall - ceiling - finish"
+  # 20 [0.87 MATCH   ] YOUR: "1/2" drywall - walls" Γåö ADJ: "1/2" drywall - walls - finish"
+  # 21 [0.87 MODIFIED] YOUR: "PVA primer - all surfaces" Γåö ADJ: "PVA primer - all surfaces"
+  # 22 [0.87 MATCH   ] YOUR: "Texture - light orange peel" Γåö ADJ: "Orange peel texture - light"
+  # 23 [0.87 MODIFIED] YOUR: "Paint - 2 coats - eggshell - low VOCSF" Γåö ADJ: "Eggshell paint - 2 coats"
+  # 24 [0.87 MATCH   ] YOUR: "Baseboard - 3-1/4" - MDFLF" Γåö ADJ: "Baseboard - 2-1/4" - MDFLF"
+  # 25 [0.87 MATCH   ] YOUR: "Paint baseboard" Γåö ADJ: "Baseboard paint - 2 coats"
+  # 26 [0.87 MATCH   ] YOUR: "Closet shelf & rod" Γåö ADJ: "Closet shelf & rod package"
+  # 27 [0.87 MATCH   ] YOUR: "Nursery final clean" Γåö ADJ: "Final clean - nursery"
+  # 28 [0.87 MATCH   ] YOUR: "Demo drywall - walls - smoke" Γåö ADJ: "Demo wall drywall - smoke"
+  # 29 [0.87 MODIFIED] YOUR: "Seal framing - odor block - shellac" Γåö ADJ: "Shellac seal - framing - odor"
+  # 30 [0.87 MATCH   ] YOUR: "5/8" drywall - ceiling" Γåö ADJ: "Drywall - 5/8" - ceiling"
+  # 31 [0.87 MATCH   ] YOUR: "1/2" drywall - walls" Γåö ADJ: "Drywall - 1/2" - walls"
+  # 32 [0.87 MODIFIED] YOUR: "PVA primer - all" Γåö ADJ: "Primer - PVA - walls & ceiling"
+  # 33 [0.87 MATCH   ] YOUR: "Texture - knockdown" Γåö ADJ: "Knockdown texture"
+  # 34 [0.87 MATCH   ] YOUR: "Baseboard - 3-1/4"" Γåö ADJ: "Baseboard - 3-1/4""
+  # 35 [0.87 MATCH   ] YOUR: "Paint baseboard" Γåö ADJ: "Baseboard paint"
+  # 36 [0.87 MATCH   ] YOUR: "Final clean - office" Γåö ADJ: "Office/den final clean"
+  # 37 [0.87 MATCH   ] YOUR: "Concrete slab seal - porch" Γåö ADJ: "Seal concrete - porch"
+  # 38 [0.87 MATCH   ] YOUR: "Final clean - porch" Γåö ADJ: "Porch cleaning"
+  # 39 [0.87 MODIFIED] YOUR: "Dryer vent cleaning" Γåö ADJ: "Dryer vent - clean and inspect"
+  # 40 [0.87 MODIFIED] YOUR: "Content pack-back" Γåö ADJ: "Content return / pack-back - per rm"
+
+ΓöÇΓöÇ Converted to 40 RawLineItems (all MATCH status) ΓöÇΓöÇ
+
+ΓöÇΓöÇ Summary ΓöÇΓöÇ
+  Lines to AI: 249/329 (24.3% reduction from prematch)

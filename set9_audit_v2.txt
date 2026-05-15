@@ -1,0 +1,60 @@
+﻿PDF A: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set9\Contractor_Estimate_Set7.pdf
+PDF B: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set9\Adjuster_Estimate_Set7.pdf
+
+ΓöÇΓöÇ Raw extraction ΓöÇΓöÇ
+  PDF A: 190 lines
+  PDF B: 174 lines
+
+ΓöÇΓöÇ After pre-filter ΓöÇΓöÇ
+  PDF A: 190 ΓåÆ 157 lines (~206 tokens saved)
+  PDF B: 174 ΓåÆ 145 lines (~195 tokens saved)
+
+ΓöÇΓöÇ Deterministic pre-match ΓöÇΓöÇ
+  Auto-matched: 37 (25 exact MATCH, 12 MODIFIED)
+  Avg confidence: 0.87
+  Remaining for AI (yours): 120
+  Remaining for AI (adjuster): 108
+
+ΓöÇΓöÇ All auto-matches ΓöÇΓöÇ
+  #  1 [0.87 MATCH   ] YOUR: "Remove drywall - ceiling" Γåö ADJ: "Demo ceiling drywall"
+  #  2 [0.87 MATCH   ] YOUR: "R-13 insulation - walls" Γåö ADJ: "R-13 insulation - walls"
+  #  3 [0.87 MATCH   ] YOUR: "5/8" drywall - ceiling - smooth fini" Γåö ADJ: "Drywall - 5/8" - ceiling - smooth"
+  #  4 [0.87 MATCH   ] YOUR: "1/2" drywall - walls - complete" Γåö ADJ: "Drywall - 1/2" - walls - complete"
+  #  5 [0.87 MATCH   ] YOUR: "PVA primer - all" Γåö ADJ: "Primer - PVA - all"
+  #  6 [0.87 MATCH   ] YOUR: "Smooth skim coat - ceiling" Γåö ADJ: "Skim coat - ceiling"
+  #  7 [0.87 MATCH   ] YOUR: "Paint ceiling - flat - 2 coats" Γåö ADJ: "Ceiling paint - flat - 2 coat"
+  #  8 [0.87 MATCH   ] YOUR: "Paint walls - eggshell - 2 coats" Γåö ADJ: "Wall paint - eggshell - 2 coat"
+  #  9 [0.87 MODIFIED] YOUR: "Tile backsplash - subway - 3x6 - R&RSF" Γåö ADJ: "Subway tile backsplash - 3x6 - R&RSF"
+  # 10 [0.87 MATCH   ] YOUR: "Grout seal - backsplash" Γåö ADJ: "Grout seal - backsplash"
+  # 11 [0.87 MODIFIED] YOUR: "Undermount sink - SS - single" Γåö ADJ: "Single bowl SS sink - undermount"
+  # 12 [0.87 MODIFIED] YOUR: "Faucet - pull-down - chrome" Γåö ADJ: "Kitchen faucet - pull down - chrome"
+  # 13 [0.87 MATCH   ] YOUR: "Dishwasher - reconnect" Γåö ADJ: "Dishwasher reconnect"
+  # 14 [0.87 MODIFIED] YOUR: "Final clean - kitchen/dining" Γåö ADJ: "Kitchen/dining cleaning"
+  # 15 [0.87 MATCH   ] YOUR: "Remove drywall - all walls - mold" Γåö ADJ: "Remove drywall - mold - walls"
+  # 16 [0.87 MODIFIED] YOUR: "Treat framing - mold - encapsulant" Γåö ADJ: "Encapsulant - framing - mold"
+  # 17 [0.87 MATCH   ] YOUR: "PVA primer - walls" Γåö ADJ: "PVA primer - walls"
+  # 18 [0.87 MATCH   ] YOUR: "Paint walls - eggshell - 2 coat" Γåö ADJ: "Wall paint - eggshell - 2 coat"
+  # 19 [0.87 MATCH   ] YOUR: "LVP flooring - waterproof - closet" Γåö ADJ: "LVP floor - waterproof"
+  # 20 [0.87 MATCH   ] YOUR: "Final clean - closet" Γåö ADJ: "Clean closet"
+  # 21 [0.87 MATCH   ] YOUR: "Remove drywall - walls - mold" Γåö ADJ: "Demo walls - mold affected - drywall"
+  # 22 [0.87 MATCH   ] YOUR: "Remove drywall - ceiling - mold" Γåö ADJ: "Demo ceiling drywall - mold"
+  # 23 [0.87 MATCH   ] YOUR: "Remove carpet - contaminated" Γåö ADJ: "Remove contaminated carpet"
+  # 24 [0.87 MATCH   ] YOUR: "Smooth skim coat - ceiling" Γåö ADJ: "Skim coat - ceiling - smooth"
+  # 25 [0.87 MATCH   ] YOUR: "PVA primer - all surfaces" Γåö ADJ: "Primer - PVA - all surfaces"
+  # 26 [0.87 MATCH   ] YOUR: "Paint ceiling - flat - 2 coats" Γåö ADJ: "Paint ceiling - flat latex - 2 coat"
+  # 27 [0.87 MODIFIED] YOUR: "Paint walls - satin - 2 coats" Γåö ADJ: "Paint walls - satin - 2 coat"
+  # 28 [0.87 MATCH   ] YOUR: "Paint baseboard - 2 coats" Γåö ADJ: "Paint baseboard - 2 coat"
+  # 29 [0.87 MODIFIED] YOUR: "Paint door slab - 2 coat/side" Γåö ADJ: "Paint door - 2 coat per side"
+  # 30 [0.87 MODIFIED] YOUR: "Recessed light - 4" LED - R&REA" Γåö ADJ: "Recessed LED - 4" - R&REA"
+  # 31 [0.87 MATCH   ] YOUR: "Final clean - primary suite" Γåö ADJ: "Primary suite final clean"
+  # 32 [0.87 MATCH   ] YOUR: "Pressure wash - balcony slab" Γåö ADJ: "Pressure wash - balcony"
+  # 33 [0.87 MATCH   ] YOUR: "Railing touch-up paint - metal" Γåö ADJ: "Railing paint - touch up - metal"
+  # 34 [0.87 MODIFIED] YOUR: "Balcony drain - clear/repair" Γåö ADJ: "Drain clearing - balcony"
+  # 35 [0.87 MODIFIED] YOUR: "Balcony clean - final" Γåö ADJ: "Clean balcony - final"
+  # 36 [0.87 MODIFIED] YOUR: "Smoke detector - replace" Γåö ADJ: "Smoke detector - replace"
+  # 37 [0.87 MODIFIED] YOUR: "Paint bifold door - 2 coat/side" Γåö ADJ: "Paint bifold - 2 coat"
+
+ΓöÇΓöÇ Converted to 37 RawLineItems (all MATCH status) ΓöÇΓöÇ
+
+ΓöÇΓöÇ Summary ΓöÇΓöÇ
+  Lines to AI: 228/302 (24.5% reduction from prematch)

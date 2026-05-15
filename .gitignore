@@ -1,0 +1,28 @@
+# App code has its own repo — never include it here
+Primary Repository/
+
+# PDFs are too large for git — copy manually via USB/AirDrop
+PDFS/
+
+# Screenshots — not needed on other machines
+LEVLR Screenshots/
+
+# Dependencies
+node_modules/
+Accuracy Runner/node_modules/
+
+# Secrets — NEVER commit these
+Accuracy Runner/auth.json
+Spec Documentation/credentials.md
+.env
+.env.local
+
+# Run outputs — ephemeral, not worth versioning
+Accuracy Runner/results/
+Accuracy Runner/playwright-report/
+Accuracy Runner/test-results/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini

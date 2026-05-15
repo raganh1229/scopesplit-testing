@@ -1,0 +1,41 @@
+﻿PDF A: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set9\Contractor_Estimate_Set7.pdf
+PDF B: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set9\Adjuster_Estimate_Set7.pdf
+
+ΓöÇΓöÇ Raw extraction ΓöÇΓöÇ
+  PDF A: 190 lines
+  PDF B: 174 lines
+
+ΓöÇΓöÇ After pre-filter ΓöÇΓöÇ
+  PDF A: 190 ΓåÆ 157 lines (~206 tokens saved)
+  PDF B: 174 ΓåÆ 145 lines (~195 tokens saved)
+
+ΓöÇΓöÇ Deterministic pre-match ΓöÇΓöÇ
+  Auto-matched: 18 (5 exact MATCH, 13 MODIFIED)
+  Avg confidence: 0.87
+  Remaining for AI (yours): 139
+  Remaining for AI (adjuster): 127
+
+ΓöÇΓöÇ All auto-matches ΓöÇΓöÇ
+  #  1 [0.87 MODIFIED] YOUR: "Remove drywall - ceiling" Γåö ADJ: "Demo ceiling drywall - mold"
+  #  2 [0.87 MODIFIED] YOUR: "PVA primer - all" Γåö ADJ: "Primer - PVA - all surfaces"
+  #  3 [0.87 MODIFIED] YOUR: "Smooth skim coat - ceiling" Γåö ADJ: "Skim coat - ceiling - smooth"
+  #  4 [0.87 MODIFIED] YOUR: "Paint ceiling - flat - 2 coats" Γåö ADJ: "Paint ceiling - flat latex - 2 coat"
+  #  5 [0.87 MATCH   ] YOUR: "Remove drywall - all walls - mold" Γåö ADJ: "Remove drywall - mold - walls"
+  #  6 [0.87 MODIFIED] YOUR: "Treat framing - mold - encapsulant" Γåö ADJ: "Encapsulant - framing - mold"
+  #  7 [0.87 MODIFIED] YOUR: "1/2" drywall - walls - complete" Γåö ADJ: "Drywall - 1/2" - walls - complete"
+  #  8 [0.87 MATCH   ] YOUR: "PVA primer - walls" Γåö ADJ: "PVA primer - walls"
+  #  9 [0.87 MATCH   ] YOUR: "Paint walls - eggshell - 2 coat" Γåö ADJ: "Wall paint - eggshell - 2 coat"
+  # 10 [0.87 MATCH   ] YOUR: "LVP flooring - waterproof - closet" Γåö ADJ: "LVP floor - waterproof"
+  # 11 [0.87 MATCH   ] YOUR: "Final clean - closet" Γåö ADJ: "Clean closet"
+  # 12 [0.87 MODIFIED] YOUR: "Remove drywall - walls - mold" Γåö ADJ: "Demo wall drywall - mold affected"
+  # 13 [0.87 MODIFIED] YOUR: "Remove drywall - ceiling - mold" Γåö ADJ: "Demo ceiling drywall"
+  # 14 [0.87 MODIFIED] YOUR: "R-13 insulation - walls - faced batt" Γåö ADJ: "R-13 insulation - walls"
+  # 15 [0.87 MODIFIED] YOUR: "5/8" drywall - ceiling - smooth fini" Γåö ADJ: "Drywall - 5/8" - ceiling - smooth"
+  # 16 [0.87 MODIFIED] YOUR: "Smooth skim coat - ceiling" Γåö ADJ: "Skim coat - ceiling"
+  # 17 [0.87 MODIFIED] YOUR: "PVA primer - all surfaces" Γåö ADJ: "Primer - PVA - all"
+  # 18 [0.87 MODIFIED] YOUR: "Paint ceiling - flat - 2 coats" Γåö ADJ: "Ceiling paint - flat - 2 coat"
+
+ΓöÇΓöÇ Converted to 18 RawLineItems (all MATCH status) ΓöÇΓöÇ
+
+ΓöÇΓöÇ Summary ΓöÇΓöÇ
+  Lines to AI: 266/302 (11.9% reduction from prematch)

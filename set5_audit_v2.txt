@@ -1,0 +1,34 @@
+﻿PDF A: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set5\synthetic_xactimate_carrier_estimate_pair3.pdf
+PDF B: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set5\synthetic_xactimate_adjuster_estimate_pair3.pdf
+
+ΓöÇΓöÇ Raw extraction ΓöÇΓöÇ
+  PDF A: 165 lines
+  PDF B: 154 lines
+
+ΓöÇΓöÇ After pre-filter ΓöÇΓöÇ
+  PDF A: 165 ΓåÆ 112 lines (~482 tokens saved)
+  PDF B: 154 ΓåÆ 101 lines (~469 tokens saved)
+
+ΓöÇΓöÇ Deterministic pre-match ΓöÇΓöÇ
+  Auto-matched: 11 (3 exact MATCH, 8 MODIFIED)
+  Avg confidence: 0.87
+  Remaining for AI (yours): 101
+  Remaining for AI (adjuster): 90
+
+ΓöÇΓöÇ All auto-matches ΓöÇΓöÇ
+  #  1 [0.87 MODIFIED] YOUR: "Install wall batt insulation R" Γåö ADJ: "Install batt insulation - R"
+  #  2 [0.87 MODIFIED] YOUR: "Odor seal framing - shellac" Γåö ADJ: "Seal framing with shellac"
+  #  3 [0.87 MODIFIED] YOUR: "Install batt insulation R" Γåö ADJ: "Install batt insulation - R"
+  #  4 [0.87 MATCH   ] YOUR: "Vanity detach and reset" Γåö ADJ: "Detach reset vanity"
+  #  5 [0.87 MATCH   ] YOUR: "Sink trap assembly12" Γåö ADJ: "P-trap assembly12"
+  #  6 [0.87 MODIFIED] YOUR: "Paint grade crown molding" Γåö ADJ: "Crown molding"
+  #  7 [0.87 MODIFIED] YOUR: "Remove batt insulation" Γåö ADJ: "Remove insulation - batt"
+  #  8 [0.87 MODIFIED] YOUR: "Broadloom carpet install" Γåö ADJ: "Install carpet"
+  #  9 [0.87 MATCH   ] YOUR: "Tile mortar bed" Γåö ADJ: "Assorted mortar bed for tile floor"
+  # 10 [0.87 MODIFIED] YOUR: "Add for dustless sanding" Γåö ADJ: "Dustless floor sanding add"
+  # 11 [0.87 MODIFIED] YOUR: "Ceramic tile floor install" Γåö ADJ: "Install ceramic tile floor"
+
+ΓöÇΓöÇ Converted to 11 RawLineItems (all MATCH status) ΓöÇΓöÇ
+
+ΓöÇΓöÇ Summary ΓöÇΓöÇ
+  Lines to AI: 191/213 (10.3% reduction from prematch)

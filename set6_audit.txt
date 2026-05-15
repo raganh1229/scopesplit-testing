@@ -1,0 +1,49 @@
+﻿PDF A: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set6\Contractor_Estimate_Set3.pdf
+PDF B: C:\Users\Ragan Harrison\OneDrive\Desktop\Application Comparrison\PDFS\Accurate Comparisons\Set6\Adjuster_Estimate_Set3.pdf
+
+ΓöÇΓöÇ Raw extraction ΓöÇΓöÇ
+  PDF A: 193 lines
+  PDF B: 178 lines
+
+ΓöÇΓöÇ After pre-filter ΓöÇΓöÇ
+  PDF A: 193 ΓåÆ 157 lines (~204 tokens saved)
+  PDF B: 178 ΓåÆ 146 lines (~194 tokens saved)
+
+ΓöÇΓöÇ Deterministic pre-match ΓöÇΓöÇ
+  Auto-matched: 26 (25 exact MATCH, 1 MODIFIED)
+  Avg confidence: 0.87
+  Remaining for AI (yours): 131
+  Remaining for AI (adjuster): 120
+
+ΓöÇΓöÇ All auto-matches ΓöÇΓöÇ
+  #  1 [0.87 MATCH   ] YOUR: "Ceiling paint - 2 coats - flat latex" Γåö ADJ: "Paint - ceiling - 2 coats - flat"
+  #  2 [0.87 MODIFIED] YOUR: "Recessed can light - new" Γåö ADJ: "Recessed light - new install"
+  #  3 [0.87 MATCH   ] YOUR: "Seal wall framing - shellac odor blo" Γåö ADJ: "Seal framing - shellac - walls"
+  #  4 [0.87 MATCH   ] YOUR: "PVA primer - walls - 1 coat" Γåö ADJ: "Wall primer - PVA - one coat"
+  #  5 [0.87 MATCH   ] YOUR: "Wall texture - heavy hand applied" Γåö ADJ: "Texture - heavy hand - walls"
+  #  6 [0.87 MATCH   ] YOUR: "2-1/4" colonial baseboard" Γåö ADJ: "Colonial baseboard - 2-1/4""
+  #  7 [0.87 MATCH   ] YOUR: "Seal ceiling - PVA primer" Γåö ADJ: "PVA primer - ceiling"
+  #  8 [0.87 MATCH   ] YOUR: "Light texture - orange peel" Γåö ADJ: "Orange peel texture - light"
+  #  9 [0.87 MATCH   ] YOUR: "Paint ceiling - 2 coats" Γåö ADJ: "Ceiling paint - 2 coats"
+  # 10 [0.87 MATCH   ] YOUR: "Shellac seal - wall framing - odor c" Γåö ADJ: "Wall framing seal - shellac"
+  # 11 [0.87 MATCH   ] YOUR: "R13 kraft faced batt - 3.5" walls" Γåö ADJ: "R-13 batt - kraft faced - walls"
+  # 12 [0.87 MATCH   ] YOUR: "Heavy hand texture - walls" Γåö ADJ: "Wall texture - heavy hand"
+  # 13 [0.87 MATCH   ] YOUR: "Wall paint - 2 coats - eggshell fini" Γåö ADJ: "Wall paint - eggshell - 2 coats"
+  # 14 [0.87 MATCH   ] YOUR: "Tile backsplash - ceramic - 4x" Γåö ADJ: "Ceramic tile backsplash - 4x"
+  # 15 [0.87 MATCH   ] YOUR: "Grout seal - backsplash" Γåö ADJ: "Seal grout - tile backsplash"
+  # 16 [0.87 MATCH   ] YOUR: "Mortar bed - tile floor - R&RSF" Γåö ADJ: "Mortar bed for tile - R&RSF"
+  # 17 [0.87 MATCH   ] YOUR: "Undermount sink - double bowl - inst" Γåö ADJ: "Double bowl sink - undermount - inst"
+  # 18 [0.87 MATCH   ] YOUR: "Cabinet hardware - knobs/pulls" Γåö ADJ: "Cabinet knobs and pulls - hardware"
+  # 19 [0.87 MATCH   ] YOUR: "Knockdown texture - ceiling" Γåö ADJ: "Knockdown texture - ceiling"
+  # 20 [0.87 MATCH   ] YOUR: "Odor seal - shellac - wall studs" Γåö ADJ: "Stud wall seal - shellac - odor bloc"
+  # 21 [0.87 MATCH   ] YOUR: "Wall primer - PVA - one coat" Γåö ADJ: "PVA wall primer - one coat"
+  # 22 [0.87 MATCH   ] YOUR: "Knockdown texture - walls" Γåö ADJ: "Wall texture - knockdown style"
+  # 23 [0.87 MATCH   ] YOUR: "Wall paint - 2 coats - satin" Γåö ADJ: "Paint walls - 2 coats - satin finish"
+  # 24 [0.87 MATCH   ] YOUR: "3-1/4" poplar baseboard" Γåö ADJ: "Baseboard - 3-1/4" - poplar"
+  # 25 [0.87 MATCH   ] YOUR: "2-1/4" door/window casing" Γåö ADJ: "Door/window casing - 2-1/4""
+  # 26 [0.87 MATCH   ] YOUR: "Casing paint - 2 coats" Γåö ADJ: "Paint casing - 2 coats"
+
+ΓöÇΓöÇ Converted to 26 RawLineItems (all MATCH status) ΓöÇΓöÇ
+
+ΓöÇΓöÇ Summary ΓöÇΓöÇ
+  Lines to AI: 251/303 (17.2% reduction from prematch)
