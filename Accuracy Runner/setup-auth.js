@@ -40,9 +40,12 @@ async function main() {
   console.log(`\nApp URL : ${APP_URL}`);
   console.log(`Email   : ${email}`);
   console.log(`Auth    : ${AUTH_FILE}\n`);
-  console.log('Launching Edge and signing in automatically...\n');
+  const isWindows = process.platform === 'win32';
+  const browserLabel = isWindows ? 'Edge' : 'Chromium';
+  const launchOptions = isWindows ? { channel: 'msedge', headless: false } : { headless: false };
+  console.log(`Launching ${browserLabel} and signing in automatically...\n`);
 
-  const browser = await chromium.launch({ channel: 'msedge', headless: false });
+  const browser = await chromium.launch(launchOptions);
   const context = await browser.newContext();
   const page    = await context.newPage();
 
